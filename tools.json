@@ -484,7 +484,7 @@
                "name":"Security Trails",
                "type":"url",
                "url":"https://securitytrails.com/",
-               "hover":"מאגר דאטה ל‑DNS ו‑WHOIS היסטוריים לצד API לחקר איומים ו‑Threat Hunting." /*Based on SecurityTrails features :contentReference[oaicite:5]{index=5}*/
+               "hover":"מאגר דאטה ל‑DNS ו‑WHOIS היסטוריים לצד API לחקר איומים ו‑Threat Hunting." 
              },
              {
                "name":"Mnemonic",
@@ -508,7 +508,7 @@
                "name":"DNS Dumpster",
                "type":"url",
                "url":"https://dnsdumpster.com/",
-               "hover":"כלי OSINT גרפי לגילוי תתי‑דומיינים ורישומי DNS למיפוי תשתית דומיין חיצונית." /*Based on DNSDumpster description :contentReference[oaicite:6]{index=6}*/
+               "hover":"כלי OSINT גרפי לגילוי תתי‑דומיינים ורישומי DNS למיפוי תשתית דומיין חיצונית." 
              },
              {
                "name":"Deteque (R)",
@@ -526,7 +526,7 @@
                "name":"AbuseIPDB (Webpage and API)",
                "type":"url",
                "url":"https://www.abuseipdb.com/",
-               "hover":"מאגר דיווחים ודירוג ל‑IP על פעילות זדונית (DDoS, ספאם, פריצה), עם API חינמי למפתחים." :contentReference[oaicite:1]{index=1}
+               "hover":"מאגר דיווחים ודירוג ל‑IP על פעילות זדונית (DDoS, ספאם, פריצה), עם API חינמי למפתחים." 
              },
              {
                "name":"UrlQuery.net",
@@ -544,7 +544,7 @@
                "name":"URL Void",
                "type":"url",
                "url":"http://www.urlvoid.com/",
-               "hover":"בודק מוניטין אתר באמצעות סריקה בכ‑30+ רשימות שחורות ומספק דוח על סיכוני פישינג ומלווייר." :contentReference[oaicite:2]{index=2}
+               "hover":"בודק מוניטין אתר באמצעות סריקה בכ‑30+ רשימות שחורות ומספק דוח על סיכוני פישינג ומלווייר." 
              },
              {
                "name":"Threat Crowd",
@@ -958,13 +958,13 @@
                "name":"GetLinkInfo",
                "type":"url",
                "url":"http://www.getlinkinfo.com/",
-               "hover":"כלי להצגת URL המקורי, תיאור עמוד ותמונת מסך לפני גלישה לכתובת המקוצרת." :contentReference[oaicite:1]{index=1}
+               "hover":"כלי להצגת URL המקורי, תיאור עמוד ותמונת מסך לפני גלישה לכתובת המקוצרת." 
              },
              {
                "name":"CheckShortURL",
                "type":"url",
                "url":"http://checkshorturl.com/",
-               "hover":"כלי לבדיקת קישורים מקוצרים: חושף כתובת מלאה, תיאור, תמונה ומצב אבטחה לפני לחיצה." :contentReference[oaicite:2]{index=2}
+               "hover":"כלי לבדיקת קישורים מקוצרים: חושף כתובת מלאה, תיאור, תמונה ומצב אבטחה לפני לחיצה." 
              },
              {
                "name":"Lengthen Me",
@@ -988,7 +988,7 @@
                "name":"Where Does This Link Go?",
                "type":"url",
                "url":"http://wheredoesthislinkgo.com/",
-               "hover":"כלי לבדיקת שרשרת הפניות הקשורות ל‑URL קצר ולגילוי היעד המלא." :contentReference[oaicite:3]{index=3}
+               "hover":"כלי לבדיקת שרשרת הפניות הקשורות ל‑URL קצר ולגילוי היעד המלא."
              },
              {
                "name":"KnowURL",
@@ -1006,7 +1006,7 @@
                "name":"VisualPing",
                "type":"url",
                "url":"http://visualping.io/",
-               "hover":"שירות ניטור שינויים באתרים עם התראות מייל, SMS, API ו‑Slack כשדף משתנה." :contentReference[oaicite:4]{index=4}
+               "hover":"שירות ניטור שינויים באתרים עם התראות מייל, SMS, API ו‑Slack כשדף משתנה." 
              },
              {
                "name":"זיהוי שינויים",
@@ -1256,7 +1256,7 @@
                   "name":"urlscan.io",
                   "type":"url",
                   "url":"https://urlscan.io/search/#*",
-                  "hover":"סורק אתרים בסביבת sandbox, רושם בקשות, IPים, דומיינים ומשאבים ומספק screenshot ודומיין־verdict לטיפול באתרים חשודים." :contentReference[oaicite:1]{index=1}
+                  "hover":"סורק אתרים בסביבת sandbox, רושם בקשות, IPים, דומיינים ומשאבים ומספק screenshot ודומיין־verdict לטיפול באתרים חשודים." 
                 },
                 {
                   "name":"Spyse",
@@ -1268,7 +1268,7 @@
                   "name":"Shodan",
                   "type":"url",
                   "url":"https://www.shodan.io/",
-                  "hover":"׳Google למכשירים׳ – מנוע חיפוש לגלאי שירותים ו‑IoT מחוברים, כולל פורטים פתוחים ובאנרים של שירותים." :contentReference[oaicite:2]{index=2}
+                  "hover":"׳Google למכשירים׳ – מנוע חיפוש לגלאי שירותים ו‑IoT מחוברים, כולל פורטים פתוחים ובאנרים של שירותים." 
                 },
                 {
                   "name":"Portmap",
