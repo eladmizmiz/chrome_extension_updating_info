@@ -441,1066 +441,1064 @@
             ]
          },
          {
-            "name":"חיפוש תעודות",
-            "type":"folder",
-            "children":[
-               {
-                  "name":"Google's Certificate Transparency",
-                  "type":"url",
-                  "url":"https://www.certificate-transparency.org/known-logs",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Spyse",
-                  "type":"url",
-                  "url":"https://spyse.com/search/certificate",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Censys",
-                  "type":"url",
-                  "url":"https://censys.io/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"crt.sh - Certificate Search",
-                  "type":"url",
-                  "url":"https://crt.sh/?",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"ODIN (R)",
-                  "type":"url",
-                  "url":"https://www.getodin.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
+           "name":"חיפוש תעודות",
+           "type":"folder",
+           "children":[
+             {
+               "name":"Google's Certificate Transparency",
+               "type":"url",
+               "url":"https://www.certificate-transparency.org/known-logs",
+               "hover":"מדריך רשמי לרישום ובדיקת יומני CT ציבוריים שמקל על איתור תעודות TLS/SSL שהונפקו באינטרנט." /*Based on certification transparency logs public logs :contentReference[oaicite:1]{index=1}*/
+             },
+             {
+               "name":"Spyse",
+               "type":"url",
+               "url":"https://spyse.com/search/certificate",
+               "hover":"מנוע חיפוש סייבר לאיתור נכסים כמו תעודות SSL, דומיינים, IP, עם API מתקדם וחיפושים מהירים." /*Based on Spyse capabilities :contentReference[oaicite:2]{index=2}*/
+             },
+             {
+               "name":"Censys",
+               "type":"url",
+               "url":"https://censys.io/",
+               "hover":"פלטפורמה שמסרקת ומנטרת IP, שרתים ותעודות ברחבי האינטרנט ומציגה תובנות אבטחה דרך חיפוש ו‑API." /*Based on Censys description :contentReference[oaicite:3]{index=3}*/
+             },
+             {
+               "name":"crt.sh - Certificate Search",
+               "type":"url",
+               "url":"https://crt.sh/?",
+               "hover":"מסד נתונים חינמי ופתוח לחיפוש תעודות TLS/SSL שנרשמו ביומני Certificate Transparency." /*Based on crt.sh purpose :contentReference[oaicite:4]{index=4}*/
+             },
+             {
+               "name":"ODIN (R)",
+               "type":"url",
+               "url":"https://www.getodin.com/",
+               "hover":"עדיין לא זיהיתי מידע ספציפי — אשמח אם תציין במה האתר מתמחה."
+             }
+           ]
          },
          {
-            "name":"DNS פסיבי",
-            "type":"folder",
-            "children":[
-               {
-                  "name":"Security Trails",
-                  "type":"url",
-                  "url":"https://securitytrails.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Mnemonic",
-                  "type":"url",
-                  "url":"http://passivedns.mnemonic.no/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"DNS History",
-                  "type":"url",
-                  "url":"http://dnshistory.org/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"PTRarchive.com",
-                  "type":"url",
-                  "url":"http://ptrarchive.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"DNS Dumpster",
-                  "type":"url",
-                  "url":"https://dnsdumpster.com/",
-                  "hover":"כלי לחקר דומיינים ומידע DNS."
-               },
-               {
-                  "name":"Deteque (R)",
-                  "type":"url",
-                  "url":"https://www.deteque.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
+           "name":"DNS פסיבי",
+           "type":"folder",
+           "children":[
+             {
+               "name":"Security Trails",
+               "type":"url",
+               "url":"https://securitytrails.com/",
+               "hover":"מאגר דאטה ל‑DNS ו‑WHOIS היסטוריים לצד API לחקר איומים ו‑Threat Hunting." /*Based on SecurityTrails features :contentReference[oaicite:5]{index=5}*/
+             },
+             {
+               "name":"Mnemonic",
+               "type":"url",
+               "url":"http://passivedns.mnemonic.no/",
+               "hover":"מאגר DNS פסיבי שמאגד רשומות DNS היסטוריות לשם חקירת נוכחות רשת בעבר."
+             },
+             {
+               "name":"DNS History",
+               "type":"url",
+               "url":"http://dnshistory.org/",
+               "hover":"מאגר של היסטוריית רשומות DNS המציג שינויים בזמן עבור דומיינים." 
+             },
+             {
+               "name":"PTRarchive.com",
+               "type":"url",
+               "url":"http://ptrarchive.com/",
+               "hover":"מאגר PTR (reverse DNS) מסורתי לתחקור היסטוריית DNS הפוכה." 
+             },
+             {
+               "name":"DNS Dumpster",
+               "type":"url",
+               "url":"https://dnsdumpster.com/",
+               "hover":"כלי OSINT גרפי לגילוי תתי‑דומיינים ורישומי DNS למיפוי תשתית דומיין חיצונית." /*Based on DNSDumpster description :contentReference[oaicite:6]{index=6}*/
+             },
+             {
+               "name":"Deteque (R)",
+               "type":"url",
+               "url":"https://www.deteque.com/",
+               "hover":"עדיין לא נמצא תיאור – לא ברור במה הכלי מתמקד."
+             }
+           ]
          },
          {
-            "name":"מוניטין",
-            "type":"folder",
-            "children":[
-               {
-                  "name":"AbuseIPDB (Webpage and API)",
-                  "type":"url",
-                  "url":"https://www.abuseipdb.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"UrlQuery.net",
-                  "type":"url",
-                  "url":"http://urlquery.net/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"PassiveTotal",
-                  "type":"url",
-                  "url":"https://www.passivetotal.org/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"URL Void",
-                  "type":"url",
-                  "url":"http://www.urlvoid.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Threat Crowd",
-                  "type":"url",
-                  "url":"https://www.threatcrowd.org/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"FortiGuard Reputation Service",
-                  "type":"url",
-                  "url":"http://fortiguard.com/iprep",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"McAfee TrustedSource",
-                  "type":"url",
-                  "url":"http://www.trustedsource.org/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Trend Micro Site Safety Center",
-                  "type":"url",
-                  "url":"https://global.sitesafety.trendmicro.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"WatchGuard ReputationAuthority",
-                  "type":"url",
-                  "url":"http://www.reputationauthority.org/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Sucuri SiteCheck",
-                  "type":"url",
-                  "url":"https://sitecheck.sucuri.net/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"ThreatMiner.org",
-                  "type":"url",
-                  "url":"https://www.threatminer.org/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"BlueCoat WebPulse",
-                  "type":"url",
-                  "url":"https://sitereview.bluecoat.com/sitereview.jsp",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Zscaler Zulu URL Risk Analyzer",
-                  "type":"url",
-                  "url":"http://zulu.zscaler.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Joe Sandbox Url Analyzer",
-                  "type":"url",
-                  "url":"https://www.url-analyzer.net/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Deepviz Domain Search",
-                  "type":"url",
-                  "url":"https://search.deepviz.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Cisco SenderBase",
-                  "type":"url",
-                  "url":"http://www.senderbase.org/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"AVG Threat Labs",
-                  "type":"url",
-                  "url":"http://www.avgthreatlabs.com/ww-en/website-safety-reports/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Webroot BrightCloud URL/IP Lookup",
-                  "type":"url",
-                  "url":"http://www.brightcloud.com/tools/url-ip-lookup.php",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"vURL Online",
-                  "type":"url",
-                  "url":"https://vurldissect.co.uk/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"AlienVault Open Threat Exchange",
-                  "type":"url",
-                  "url":"https://otx.alienvault.com/browse/pulses/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Malware Domain List",
-                  "type":"url",
-                  "url":"http://www.malwaredomainlist.com/mdl.php",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Web Inspector Online Scan",
-                  "type":"url",
-                  "url":"http://app.webinspector.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Google Safe Browsing API",
-                  "type":"url",
-                  "url":"https://developers.google.com/safe-browsing/?csw=1",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"hpHosts Online",
-                  "type":"url",
-                  "url":"http://hosts-file.net/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
+           "name":"מוניטין",
+           "type":"folder",
+           "children":[
+             {
+               "name":"AbuseIPDB (Webpage and API)",
+               "type":"url",
+               "url":"https://www.abuseipdb.com/",
+               "hover":"מאגר דיווחים ודירוג ל‑IP על פעילות זדונית (DDoS, ספאם, פריצה), עם API חינמי למפתחים." :contentReference[oaicite:1]{index=1}
+             },
+             {
+               "name":"UrlQuery.net",
+               "type":"url",
+               "url":"http://urlquery.net/",
+               "hover":"כלי לניתוח דינמי של URLים כולל העברת בקשות, קוד, והדמיית דפדפן לגילוי פעילות זדונית."
+             },
+             {
+               "name":"PassiveTotal",
+               "type":"url",
+               "url":"https://www.passivetotal.org/",
+               "hover":"פלטפורמת חקירת איומים המאגדת DNS, WHOIS, רשתות, IP ותעודות להזנת OSINT ו‑Threat Intel."
+             },
+             {
+               "name":"URL Void",
+               "type":"url",
+               "url":"http://www.urlvoid.com/",
+               "hover":"בודק מוניטין אתר באמצעות סריקה בכ‑30+ רשימות שחורות ומספק דוח על סיכוני פישינג ומלווייר." :contentReference[oaicite:2]{index=2}
+             },
+             {
+               "name":"Threat Crowd",
+               "type":"url",
+               "url":"https://www.threatcrowd.org/",
+               "hover":"מנוע OSINT שמקשר URLים, דומיינים, IP ו‑hashes, ומאפשר בניית רשת איומים חזותית."
+             },
+             {
+               "name":"FortiGuard Reputation Service",
+               "type":"url",
+               "url":"http://fortiguard.com/iprep",
+               "hover":"מדרג מוניטין IP וקישורים לפי קטלוג FortiGuard של Fortinet."
+             },
+             {
+               "name":"McAfee TrustedSource",
+               "type":"url",
+               "url":"http://www.trustedsource.org/",
+               "hover":"מערכת דירוג אבטחת אתרים של McAfee המבוססת על Threat Intelligence."
+             },
+             {
+               "name":"Trend Micro Site Safety Center",
+               "type":"url",
+               "url":"https://global.sitesafety.trendmicro.com/",
+               "hover":"מספק דוח אבטחה ותמונת מצב לאתרים על בסיס מסד הנתונים של Trend Micro."
+             },
+             {
+               "name":"WatchGuard ReputationAuthority",
+               "type":"url",
+               "url":"http://www.reputationauthority.org/",
+               "hover":"מאגר מוניטין URL/IP המבוסס על Threat Intelligence של WatchGuard."
+             },
+             {
+               "name":"Sucuri SiteCheck",
+               "type":"url",
+               "url":"https://sitecheck.sucuri.net/",
+               "hover":"סורק אתרים לזיהוי malware, blacklists, השתלה, תוך הצגת דוח והמלצות חינמיות."
+             },
+             {
+               "name":"ThreatMiner.org",
+               "type":"url",
+               "url":"https://www.threatminer.org/",
+               "hover":"מנוע OSINT לאיסוף info על URLים, דומיינים, IP ו‑DNS, כולל קבצי malware."
+             },
+             {
+               "name":"BlueCoat WebPulse",
+               "type":"url",
+               "url":"https://sitereview.bluecoat.com/sitereview.jsp",
+               "hover":"מערכת סיווג מוניטין אתרים בזמן אמת מבית BlueCoat/Symantec."
+             },
+             {
+               "name":"Zscaler Zulu URL Risk Analyzer",
+               "type":"url",
+               "url":"http://zulu.zscaler.com/",
+               "hover":"כלי Zscaler להערכת סיכוני URL כולל חיפוש IP ודומיין עם דוח ולאזהרות."
+             },
+             {
+               "name":"Joe Sandbox Url Analyzer",
+               "type":"url",
+               "url":"https://www.url-analyzer.net/",
+               "hover":"פלטפורמה להרצת URL חשודים בסביבה וירטואלית לניתוח דינמי של קוד זדוני."
+             },
+             {
+               "name":"Deepviz Domain Search",
+               "type":"url",
+               "url":"https://search.deepviz.com/",
+               "hover":"מנוע חיפוש דומיינים ו‑URL עם דגש על malware, phishing ו‑threat hunting."
+             },
+             {
+               "name":"Cisco SenderBase",
+               "type":"url",
+               "url":"http://www.senderbase.org/",
+               "hover":"מאגר מידע על כתובות IP ששלחו מיילים – כולל מוניטין לפי Cisco."
+             },
+             {
+               "name":"AVG Threat Labs",
+               "type":"url",
+               "url":"http://www.avgthreatlabs.com/ww-en/website-safety-reports/",
+               "hover":"דוח אבטחת אתרים מבית AVG כדי לבדוק סכנות כמו פישינג ומלווייר."
+             },
+             {
+               "name":"Webroot BrightCloud URL/IP Lookup",
+               "type":"url",
+               "url":"http://www.brightcloud.com/tools/url-ip-lookup.php",
+               "hover":"כלי לחיפוש URL/IP לפי מאגר BrightCloud של Webroot עם דירוג מוניטין."
+             },
+             {
+               "name":"vURL Online",
+               "type":"url",
+               "url":"https://vurldissect.co.uk/",
+               "hover":"כלי OSINT שמנתח מבנה URL, מטא‑דאטה ורכיבים פנימיים לצורכי אבטחה."
+             },
+             {
+               "name":"AlienVault Open Threat Exchange",
+               "type":"url",
+               "url":"https://otx.alienvault.com/browse/pulses/",
+               "hover":"קהילת Threat Intel שיתופית שמפרסמת IoCs, כולל URLים ו‑domains."
+             },
+             {
+               "name":"Malware Domain List",
+               "type":"url",
+               "url":"http://www.malwaredomainlist.com/mdl.php",
+               "hover":"רשימה ציבורית של דומיינים מוכרים קשורי malware."
+             },
+             {
+               "name":"Web Inspector Online Scan",
+               "type":"url",
+               "url":"http://app.webinspector.com/",
+               "hover":"סורק אתרים ל‑vulnerabilities, malware ו‑config שגוי עם דוח מסכם."
+             },
+             {
+               "name":"Google Safe Browsing API",
+               "type":"url",
+               "url":"https://developers.google.com/safe-browsing/?csw=1",
+               "hover":"API של Google למניעת גלישה לאתרים זדוניים, כולל phishing ו‑malware."
+             },
+             {
+               "name":"hpHosts Online",
+               "type":"url",
+               "url":"http://hosts-file.net/",
+               "hover":"קובץ רשימות host/IP המכיל דומיינים ו‑IP ידועים כזדוניים."
+             }
+           ]
          },
          {
-            "name":"רשימות שחורות לדומיינים",
-            "type":"folder",
-            "children":[
-               {
-                  "name":"Ransomware Tracker Abuse.ch",
-                  "type":"url",
-                  "url":"http://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Threatexpert.com Malicious URLs",
-                  "type":"url",
-                  "url":"http://www.networksec.org/grabbho/block.txt",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Zeus C2 Tracker",
-                  "type":"url",
-                  "url":"https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Malware Domains Blacklist",
-                  "type":"url",
-                  "url":"http://mirror1.malwaredomains.com/files/domains.txt",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Critical Stack Intel (R)",
-                  "type":"url",
-                  "url":"https://intel.criticalstack.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"DNS Sinkhole",
-                  "type":"url",
-                  "url":"http://malc0de.com/bl/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"DNS-BH Malware Domain Blocklist",
-                  "type":"url",
-                  "url":"http://www.malwaredomains.com/wordpress/?page_id=66",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Malware Domain List",
-                  "type":"url",
-                  "url":"http://www.malwaredomainlist.com/hostslist/hosts.txt",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Malware Patrol (R)",
-                  "type":"url",
-                  "url":"http://www.malware.com.br/open-source.shtml",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"MalwareURL (R)",
-                  "type":"url",
-                  "url":"http://www.malwareurl.com/index.php",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"scumware.org",
-                  "type":"url",
-                  "url":"https://www.scumware.org/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"ZeuS Tracker",
-                  "type":"url",
-                  "url":"https://zeustracker.abuse.ch/blocklist.php",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Shadowserver Foundation",
-                  "type":"url",
-                  "url":"http://www.shadowserver.org/wiki/pmwiki.php?n=Services/Reports",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Email Domain Validation",
-                  "type":"url",
-                  "url":"https://www.mailboxvalidator.com/domain",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
+           "name":"רשימות שחורות לדומיינים",
+           "type":"folder",
+           "children":[
+             {
+               "name":"Ransomware Tracker Abuse.ch",
+               "type":"url",
+               "url":"http://ransomwaretracker.abuse.ch/downloads/RW_DOMBL.txt",
+               "hover":"רשימת דומיינים המשויכים לרנסומוור שמנוהלת על‑ידי community של Abuse.ch."
+             },
+             {
+               "name":"Threatexpert.com Malicious URLs",
+               "type":"url",
+               "url":"http://www.networksec.org/grabbho/block.txt",
+               "hover":"רשימת URLs זדוניים מתעדכנת, המסופקת על‑ידי ThreatExpert."
+             },
+             {
+               "name":"Zeus C2 Tracker",
+               "type":"url",
+               "url":"https://zeustracker.abuse.ch/blocklist.php?download=domainblocklist",
+               "hover":"רשימת דומיינים המשמשים ל‑C2 של ZeuS, מתעדכנת אוטומטית."
+             },
+             {
+               "name":"Malware Domains Blacklist",
+               "type":"url",
+               "url":"http://mirror1.malwaredomains.com/files/domains.txt",
+               "hover":"רשימת דומיינים שנמצאו קשורים להפצת malware."
+             },
+             {
+               "name":"Critical Stack Intel (R)",
+               "type":"url",
+               "url":"https://intel.criticalstack.com/",
+               "hover":"פלטפורמת Threat Intel שמציגה IPs ודומיינים בסיכון." 
+             },
+             {
+               "name":"DNS Sinkhole",
+               "type":"url",
+               "url":"http://malc0de.com/bl/",
+               "hover":"רשימת דומיינים שנחסמו על‑ידי DNS sinkhole עקב פעילות זדונית."
+             },
+             {
+               "name":"DNS-BH Malware Domain Blocklist",
+               "type":"url",
+               "url":"http://www.malwaredomains.com/wordpress/?page_id=66",
+               "hover":"מאגר DNS‑based של דומיינים חשודים בהפצת malware."
+             },
+             {
+               "name":"Malware Domain List",
+               "type":"url",
+               "url":"http://www.malwaredomainlist.com/hostslist/hosts.txt",
+               "hover":"רשימה נוספת של דומיינים חשודים ב‑malware."
+             },
+             {
+               "name":"Malware Patrol (R)",
+               "type":"url",
+               "url":"http://www.malware.com.br/open-source.shtml",
+               "hover":"פרסומי lists של IP ודומיינים קשורי malware, מספק Brazil."
+             },
+             {
+               "name":"MalwareURL (R)",
+               "type":"url",
+               "url":"http://www.malwareurl.com/index.php",
+               "hover":"אתר המספק רשימות של URLים ודומיינים חשודים."
+             },
+             {
+               "name":"scumware.org",
+               "type":"url",
+               "url":"https://www.scumware.org/",
+               "hover":"מאגר דומיינים המשויכים ל‑scumware – סוג של malware קל."
+             },
+             {
+               "name":"ZeuS Tracker",
+               "type":"url",
+               "url":"https://zeustracker.abuse.ch/blocklist.php",
+               "hover":"רשימת דומיינים המשויכים ל‑ZeuS C2 ו‑phishing."
+             },
+             {
+               "name":"Shadowserver Foundation",
+               "type":"url",
+               "url":"http://www.shadowserver.org/wiki/pmwiki.php?n=Services/Reports",
+               "hover":"שירות Shadowserver עם דוחות IP/dns/darknet על פעילות זדונית."
+             },
+             {
+               "name":"Email Domain Validation",
+               "type":"url",
+               "url":"https://www.mailboxvalidator.com/domain",
+               "hover":"כלי למיפוי ולבדיקת דומייני אימייל – כולל סטטוסים ומוניטין."
+             }
+           ]
          },
          {
-            "name":"דומיינים מזויפים",
-            "type":"folder",
-            "children":[
-               {
-                  "name":"URLCrazy (T)",
-                  "type":"url",
-                  "url":"http://www.morningstarsecurity.com/research/urlcrazy",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"dnstwister",
-                  "type":"url",
-                  "url":"https://dnstwister.report/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
+           "name":"דומיינים מזויפים",
+           "type":"folder",
+           "children":[
+             {
+               "name":"URLCrazy (T)",
+               "type":"url",
+               "url":"http://www.morningstarsecurity.com/research/urlcrazy",
+               "hover":"סקיפט שמפיק וריאציות נפוצות של דומיינים (typosquatting), מארגן לפי סוגי דמיין כדי לחשוף פישינג וזיופים."
+             },
+             {
+               "name":"dnstwister",
+               "type":"url",
+               "url":"https://dnstwister.report/",
+               "hover":"כלי OSINT שמייצר וריאציות ממודדות דומיין (including homoglyphs, bitsquatting ועוד) ומשווה תוצאות DNS/Z URLs."
+             }
+           ]
          },
          {
-            "name":"ניתוח נתונים",
-            "type":"folder",
-            "children":[
-               {
-                  "name":"BuiltWith",
-                  "type":"url",
-                  "url":"http://builtwith.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"SiteSleuth",
-                  "type":"url",
-                  "url":"https://www.sitesleuth.io/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Wappalyzer (T)",
-                  "type":"url",
-                  "url":"https://wappalyzer.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"SEMrush",
-                  "type":"url",
-                  "url":"https://www.semrush.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"TopGainers",
-                  "type":"url",
-                  "url":"https://topgainers.net/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Moonsearch",
-                  "type":"url",
-                  "url":"http://moonsearch.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"StackShare",
-                  "type":"url",
-                  "url":"https://stackshare.io/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Ewhois",
-                  "type":"url",
-                  "url":"https://ewhois.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Netcraft",
-                  "type":"url",
-                  "url":"http://toolbar.netcraft.com/site_report?url=undefined#last_reboot",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"StatsCrop",
-                  "type":"url",
-                  "url":"http://www.statscrop.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Open Site Explorer",
-                  "type":"url",
-                  "url":"https://moz.com/researchtools/ose/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"SpyOnWeb",
-                  "type":"url",
-                  "url":"http://www.spyonweb.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"SecurityHeaders.io",
-                  "type":"url",
-                  "url":"https://securityheaders.io/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Keyword Density",
-                  "type":"url",
-                  "url":"http://tools.seobook.com/general/keyword-density/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Alexa Site Statistics",
-                  "type":"url",
-                  "url":"http://www.alexa.com/siteinfo",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Cisco Umbrella Popularity List",
-                  "type":"url",
-                  "url":"http://s3-us-west-1.amazonaws.com/umbrella-static/index.html",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Alexa Top 500 Global Sites",
-                  "type":"url",
-                  "url":"http://www.alexa.com/topsites",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"W3bin.com",
-                  "type":"url",
-                  "url":"https://w3bin.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Sitedossier",
-                  "type":"url",
-                  "url":"http://www.sitedossier.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Visual Site Mapper",
-                  "type":"url",
-                  "url":"http://www.visualsitemapper.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"ClearWebStats.com",
-                  "type":"url",
-                  "url":"https://www.clearwebstats.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"PubDB",
-                  "type":"url",
-                  "url":"http://pub-db.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"WWW Domain Tools",
-                  "type":"url",
-                  "url":"https://w3dt.net/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"SimilarWeb",
-                  "type":"url",
-                  "url":"https://www.similarweb.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Website Outlook",
-                  "type":"url",
-                  "url":"http://websiteoutlook.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Siteliner",
-                  "type":"url",
-                  "url":"http://siteliner.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"WebPagetest",
-                  "type":"url",
-                  "url":"https://www.webpagetest.org/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
+           "name":"ניתוח נתונים",
+           "type":"folder",
+           "children":[
+             {
+               "name":"BuiltWith",
+               "type":"url",
+               "url":"http://builtwith.com/",
+               "hover":"כלי לניתוח טכנולוגיות באתר – CMS, frameworks, ה‑tracking codes, APIs ועוד."
+             },
+             {
+               "name":"SiteSleuth",
+               "type":"url",
+               "url":"https://www.sitesleuth.io/",
+               "hover":"מאבחן מבנה האתר, רכיבים וטכנולוגיות בשילוב detail report ו‑open source footprint."
+             },
+             {
+               "name":"Wappalyzer (T)",
+               "type":"url",
+               "url":"https://wappalyzer.com/",
+               "hover":"תוסף ומנוע לזיהוי טכנולוגיות אתרים – servers, JS frameworks, e‑commerce, וכו׳." 
+             },
+             {
+               "name":"SEMrush",
+               "type":"url",
+               "url":"https://www.semrush.com/",
+               "hover":"פלטפורמת SEO/SEM, מעקב מילות מפתח, ניתוח תנועה, backlinks, ad strategies ו‑competitor research."
+             },
+             {
+               "name":"TopGainers",
+               "type":"url",
+               "url":"https://topgainers.net/",
+               "hover":"מציג אתרים עם עלייה חדה בהעברת טראפיק – יכול לאתר טרנדים או זינוקים פתאומיים."
+             },
+             {
+               "name":"Moonsearch",
+               "type":"url",
+               "url":"http://moonsearch.com/",
+               "hover":"כלי חיפוש מתקדמים לעיון בתוצאות Google עם סינון לפי מילת מפתח ומדינה."
+             },
+             {
+               "name":"StackShare",
+               "type":"url",
+               "url":"https://stackshare.io/",
+               "hover":"קהילה שבה חברות ומפתחים משתפים tech stacks, Libraries, שירותי ענן וכו׳."
+             },
+             {
+               "name":"Ewhois",
+               "type":"url",
+               "url":"https://ewhois.com/",
+               "hover":"כלי WHOIS מקיף שמציג בעלים, שרתים, סטטוס דומיינים, ותוספים לרישומים."
+             },
+             {
+               "name":"Netcraft",
+               "type":"url",
+               "url":"http://toolbar.netcraft.com/site_report",
+               "hover":"דו״ח אבטחה, uptime, stack טכנולוגי והיסטוריית hosted environments לאתרים."
+             },
+             {
+               "name":"StatsCrop",
+               "type":"url",
+               "url":"http://www.statscrop.com/",
+               "hover":"מנתח נתוני traffic ו‑SEO, דירוג גלובלי וספציפי מדינה, פיצ׳רים ותגיות נפוצות."
+             },
+             {
+               "name":"Open Site Explorer",
+               "type":"url",
+               "url":"https://moz.com/researchtools/ose/",
+               "hover":"כלי Moz ל־backlink analysis, domain authority וניהול SEO."
+             },
+             {
+               "name":"SpyOnWeb",
+               "type":"url",
+               "url":"http://www.spyonweb.com/",
+               "hover":"מקשר בין אתרים לפי shared analytics, AdSense, IP ו־Google Adsense IDs."
+             },
+             {
+               "name":"SecurityHeaders.io",
+               "type":"url",
+               "url":"https://securityheaders.io/",
+               "hover":"בודק תצורת HTTP headers (CSP, HSTS וכו׳) כדי לדרג את רמת האבטחה."
+             },
+             {
+               "name":"Keyword Density",
+               "type":"url",
+               "url":"http://tools.seobook.com/general/keyword-density/",
+               "hover":"מחשב צפיפות מילים במסמך – עוזר באופטימיזציית SEO ו‑content analysis."
+             },
+             {
+               "name":"Alexa Site Statistics",
+               "type":"url",
+               "url":"http://www.alexa.com/siteinfo",
+               "hover":"מציג traffic rank, demographics, ואתרים מתחרים לפי נתוני Alexa."
+             },
+             {
+               "name":"Cisco Umbrella Popularity List",
+               "type":"url",
+               "url":"http://s3-us-west-1.amazonaws.com/umbrella-static/index.html",
+               "hover":"רשימת אתרים פופולריים לפי DNS-level telemetry של Cisco Umbrella."
+             },
+             {
+               "name":"Alexa Top 500 Global Sites",
+               "type":"url",
+               "url":"http://www.alexa.com/topsites",
+               "hover":"דירוג גלובלי של 500 האתרים המובילים לפי Alexa בכלל העולם."
+             },
+             {
+               "name":"W3bin.com",
+               "type":"url",
+               "url":"https://w3bin.com/",
+               "hover":"מאגר טקסט ו‑snippet לכלים, קטעי קוד ו‑resources ל‑web development."
+             },
+             {
+               "name":"Sitedossier",
+               "type":"url",
+               "url":"http://www.sitedossier.com/",
+               "hover":"דוח ניתוח אתר שמרכז traffic, WHOIS, backlinks ועוד במספר לחיצות."
+             },
+             {
+               "name":"Visual Site Mapper",
+               "type":"url",
+               "url":"http://www.visualsitemapper.com/",
+               "hover":"ממשק גרפי שמציג sitemap של אתר – קישורים והיררכיה."
+             },
+             {
+               "name":"ClearWebStats.com",
+               "type":"url",
+               "url":"https://www.clearwebstats.com/",
+               "hover":"ניתוח traffic, מדינות מבקרים, keywords ודומיננטיות לפי domain."
+             },
+             {
+               "name":"PubDB",
+               "type":"url",
+               "url":"http://pub-db.com/",
+               "hover":"מאגר של פרסומים ואתרים לפי תחומים, כולל סטטיסטיקות citation."
+             },
+             {
+               "name":"WWW Domain Tools",
+               "type":"url",
+               "url":"https://w3dt.net/",
+               "hover":"סט כלים ל‑WHOIS, DNS, IP, ואיתור טכנולוגיות שמשמש האתר."
+             },
+             {
+               "name":"SimilarWeb",
+               "type":"url",
+               "url":"https://www.similarweb.com/",
+               "hover":"מערכת לניתוח תנועה, traffic sources, engagement ו‑benchmark לעסקים."
+             },
+             {
+               "name":"Website Outlook",
+               "type":"url",
+               "url":"http://websiteoutlook.com/",
+               "hover":"דוח site overview – SEO, security, hosting, performance metric."
+             },
+             {
+               "name":"Siteliner",
+               "type":"url",
+               "url":"http://siteliner.com/",
+               "hover":"מאתר duplicate content, broken links, קישורים פנימיים ותמונות כדי לשפר SEO."
+             },
+             {
+               "name":"WebPagetest",
+               "type":"url",
+               "url":"https://www.webpagetest.org/",
+               "hover":"בודק ביצועי אתר (speed, waterfall, lighthouse), מאפשר בדיקות ממדינות שונות."
+             }
+           ]
          },
          {
-            "name":"הרחבת כתובות URL",
-            "type":"folder",
-            "children":[
-               {
-                  "name":"Link Expander",
-                  "type":"url",
-                  "url":"http://www.linkexpander.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"GetLinkInfo",
-                  "type":"url",
-                  "url":"http://www.getlinkinfo.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"CheckShortURL",
-                  "type":"url",
-                  "url":"http://checkshorturl.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Lengthen Me",
-                  "type":"url",
-                  "url":"https://lengthen.me/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"URL Expander",
-                  "type":"url",
-                  "url":"http://urlex.org/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"URL Unshortener",
-                  "type":"url",
-                  "url":"http://www.urlunshortener.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Where Does This Link Go?",
-                  "type":"url",
-                  "url":"http://wheredoesthislinkgo.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"KnowURL",
-                  "type":"url",
-                  "url":"http://www.knowurl.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
+           "name":"הרחבת כתובות URL",
+           "type":"folder",
+           "children":[
+             {
+               "name":"Link Expander",
+               "type":"url",
+               "url":"http://www.linkexpander.com/",
+               "hover":"כלי מקוון שמפרק קישורים מקוצרים לגילוי היעד המלא ובדיקה לפני לחיצה."
+             },
+             {
+               "name":"GetLinkInfo",
+               "type":"url",
+               "url":"http://www.getlinkinfo.com/",
+               "hover":"כלי להצגת URL המקורי, תיאור עמוד ותמונת מסך לפני גלישה לכתובת המקוצרת." :contentReference[oaicite:1]{index=1}
+             },
+             {
+               "name":"CheckShortURL",
+               "type":"url",
+               "url":"http://checkshorturl.com/",
+               "hover":"כלי לבדיקת קישורים מקוצרים: חושף כתובת מלאה, תיאור, תמונה ומצב אבטחה לפני לחיצה." :contentReference[oaicite:2]{index=2}
+             },
+             {
+               "name":"Lengthen Me",
+               "type":"url",
+               "url":"https://lengthen.me/",
+               "hover":"מאריך קישורים מקוצרים כדי לחשוף את היעד ללא סיכון."
+             },
+             {
+               "name":"URL Expander",
+               "type":"url",
+               "url":"http://urlex.org/",
+               "hover":"כלי להרחבת קישורים – מאפשר לבדוק לאן מוביל URL מקוצר."
+             },
+             {
+               "name":"URL Unshortener",
+               "type":"url",
+               "url":"http://www.urlunshortener.com/",
+               "hover":"מספק URL המלא מאחורי קישורים מקוצרים כדי להימנע מלינקים חשודים."
+             },
+             {
+               "name":"Where Does This Link Go?",
+               "type":"url",
+               "url":"http://wheredoesthislinkgo.com/",
+               "hover":"כלי לבדיקת שרשרת הפניות הקשורות ל‑URL קצר ולגילוי היעד המלא." :contentReference[oaicite:3]{index=3}
+             },
+             {
+               "name":"KnowURL",
+               "type":"url",
+               "url":"http://www.knowurl.com/",
+               "hover":"מפרק קישורים מקוצרים כדי לחשוף URL מלא ותיאור לפני פתיחה."
+             }
+           ]
          },
          {
-            "name":"זיהוי שינויים",
-            "type":"folder",
-            "children":[
-               {
-                  "name":"VisualPing",
-                  "type":"url",
-                  "url":"http://visualping.io/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"זיהוי שינויים",
-                  "type":"url",
-                  "url":"http://www.changedetection.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Check site availability Online",
-                  "type":"url",
-                  "url":"https://upcheck.online/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Follow That Page",
-                  "type":"url",
-                  "url":"https://www.followthatpage.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"WatchThatPage",
-                  "type":"url",
-                  "url":"http://watchthatpage.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"ChangeDetect",
-                  "type":"url",
-                  "url":"http://www.changedetect.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
+           "name":"זיהוי שינויים",
+           "type":"folder",
+           "children":[
+             {
+               "name":"VisualPing",
+               "type":"url",
+               "url":"http://visualping.io/",
+               "hover":"שירות ניטור שינויים באתרים עם התראות מייל, SMS, API ו‑Slack כשדף משתנה." :contentReference[oaicite:4]{index=4}
+             },
+             {
+               "name":"זיהוי שינויים",
+               "type":"url",
+               "url":"http://www.changedetection.com/",
+               "hover":"כלי חינמי לניטור שינויים בדפים ולשליחת התראות כשמתעדכן תוכן."
+             },
+             {
+               "name":"Check site availability Online",
+               "type":"url",
+               "url":"https://upcheck.online/",
+               "hover":"בודק אם אתר זמין או לא – לניטור זמינות uptime."
+             },
+             {
+               "name":"Follow That Page",
+               "type":"url",
+               "url":"https://www.followthatpage.com/",
+               "hover":"כלי חינמי למעקב אחרי דפים – שולח דוח שינויים לפי לוח זמנים."
+             },
+             {
+               "name":"WatchThatPage",
+               "type":"url",
+               "url":"http://watchthatpage.com/",
+               "hover":"מאפשר ליצור ניטור שינויים ומקבל עדכונים כשדף השתנה."
+             },
+             {
+               "name":"ChangeDetect",
+               "type":"url",
+               "url":"http://www.changedetect.com/",
+               "hover":"משיג התראות על שינויים בדפים נבחרים ומאפשר מעקב אוטומטי."
+             }
+           ]
          },
          {
-            "name":"ניתוח חברתי",
-            "type":"folder",
-            "children":[
-               {
-                  "name":"Google Trends",
-                  "type":"url",
-                  "url":"https://www.google.com/trends/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Reddit (M)",
-                  "type":"url",
-                  "url":"https://www.reddit.com/domain/%3CURLhere%3E",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
+           "name":"ניתוח חברתי",
+           "type":"folder",
+           "children":[
+             {
+               "name":"Google Trends",
+               "type":"url",
+               "url":"https://www.google.com/trends/",
+               "hover":"ניתוח למגמות חיפוש של מילים וביטויים בזמן אמת לפי אזור וזמן."
+             },
+             {
+               "name":"Reddit (M)",
+               "type":"url",
+               "url":"https://www.reddit.com/domain/%3CURLhere%3E",
+               "hover":"מראה פעילות Reddit על דומיין מסוים כולל פוסטים ותגובות."
+             }
+           ]
          },
          {
-            "name":"אבטחת DNS",
-            "type":"folder",
-            "children":[
-               {
-                  "name":"DNSSEC Analyzer",
-                  "type":"url",
-                  "url":"http://dnssec-debugger.verisignlabs.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"DNSViz",
-                  "type":"url",
-                  "url":"http://dnsviz.net/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
+           "name":"אבטחת DNS",
+           "type":"folder",
+           "children":[
+             {
+               "name":"DNSSEC Analyzer",
+               "type":"url",
+               "url":"http://dnssec-debugger.verisignlabs.com/",
+               "hover":"בדיקת סטטוס DNSSEC של דומיינים, כולל תצורה ונכונות אימות DNS." 
+             },
+             {
+               "name":"DNSViz",
+               "type":"url",
+               "url":"http://dnsviz.net/",
+               "hover":"ויזואליזציה ואבחון של מבני DNSSEC, עם זיהוי בעיות אבטחה במבנה הדומיין."
+             }
+           ]
          },
          {
-            "name":"משאבי ענן",
-            "type":"folder",
-            "children":[
-               {
-                  "name":"Public Buckets",
-                  "type":"url",
-                  "url":"https://buckets.grayhatwarfare.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Online Port scanner",
-                  "type":"url",
-                  "url":"https://portscanner.online/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Check site availability Online",
-                  "type":"url",
-                  "url":"https://upcheck.online/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
+           "name":"משאבי ענן",
+           "type":"folder",
+           "children":[
+             {
+               "name":"Public Buckets",
+               "type":"url",
+               "url":"https://buckets.grayhatwarfare.com/",
+               "hover":"מאגר מותקף של public‑S3 buckets שמאפשר חיפוש מידע חשוף ו‑leakage מקבצים בענן."
+             },
+             {
+               "name":"Online Port scanner",
+               "type":"url",
+               "url":"https://portscanner.online/",
+               "hover":"כלי סריקת פורטים מקוון המציג פתחים ושירותים פעילים על IP או host."
+             },
+             {
+               "name":"Check site availability Online",
+               "type":"url",
+               "url":"https://upcheck.online/",
+               "hover":"בודק זמינות של אתרים ושרתים, מתאים למעקב uptime של שירותים וענן."
+             }
+           ]
          },
          {
-            "name":"חולשות",
-            "type":"folder",
-            "children":[
-               {
-                  "name":"Scanners",
-                  "type":"folder",
-                  "children":[
-                     {
-                        "name":"Online Nikto scanner",
-                        "type":"url",
-                        "url":"https://nikto.online/",
-                        "hover":"כלי לחקר נתונים ומידע באינטרנט."
-                     }
-                  ]
-               },
-               {
-                  "name":"Disclosure Sites",
-                  "type":"folder",
-                  "children":[
-                     {
-                        "name":"XSSposed.org",
-                        "type":"url",
-                        "url":"https://www.xssposed.org/",
-                        "hover":"כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name":"Zone-H.org",
-                        "type":"url",
-                        "url":"http://zone-h.org/archive",
-                        "hover":"כלי לחקר נתונים ומידע באינטרנט."
-                     }
-                  ]
-               }
-            ]
+           "name":"חולשות",
+           "type":"folder",
+           "children":[
+             {
+               "name":"Scanners",
+               "type":"folder",
+               "children":[
+                 {
+                   "name":"Online Nikto scanner",
+                   "type":"url",
+                   "url":"https://nikto.online/",
+                   "hover":"גרסה אונליין של Nikto – סורק HTTP/HTTPS לאיתור פרצות, outdated components ו‑misconfigurations."
+                 }
+               ]
+             },
+             {
+               "name":"Disclosure Sites",
+               "type":"folder",
+               "children":[
+                 {
+                   "name":"XSSposed.org",
+                   "type":"url",
+                   "url":"https://www.xssposed.org/",
+                   "hover":"מאגר פגיעויות XSS מוגולשות ודוחות של פיתוחי cross‑site scripting."
+                 },
+                 {
+                   "name":"Zone-H.org",
+                   "type":"url",
+                   "url":"http://zone-h.org/archive",
+                   "hover":"ארכיון defacements ותיעוד פריצות לאתרים מסביב לעולם."
+                 }
+               ]
+             }
+           ]
          },
          {
-            "name":"כלים",
-            "type":"folder",
-            "children":[
-               {
-                  "name":"BlackWidow (T)",
-                  "type":"url",
-                  "url":"https://softbytelabs.com/wp/blackwidow/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Burp Suite (T)",
-                  "type":"url",
-                  "url":"https://portswigger.net/burp/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"IntelliTamper (T)",
-                  "type":"url",
-                  "url":"http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"International Domain Name Conversion Tool",
-                  "type":"url",
-                  "url":"http://mct.verisign-grs.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Online Nikto scanner",
-                  "type":"url",
-                  "url":"https://nikto.online/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
-         }
-      ]
-   },
-   {
-      "name":"כתובות IP ו-MAC",
-      "type":"folder",
-      "children":[
-         {
-            "name":"מיקום גיאוגרפי",
-            "type":"folder",
-            "children":[
-               {
-                  "name":"MaxMind Demo",
-                  "type":"url",
-                  "url":"https://www.maxmind.com/en/home",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"IPv4/IPv6 lists by country code",
-                  "type":"url",
-                  "url":"http://ipverse.net/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"IP2Location.com",
-                  "type":"url",
-                  "url":"https://www.ip2location.com/demo",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"IP Fingerprints",
-                  "type":"url",
-                  "url":"http://www.ipfingerprints.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"DB-IP",
-                  "type":"url",
-                  "url":"https://db-ip.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"IP Location Finder",
-                  "type":"url",
-                  "url":"https://www.iplocation.net/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"Info Sniper",
-                  "type":"url",
-                  "url":"http://www.infosniper.net/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"utrace",
-                  "type":"url",
-                  "url":"http://en.utrace.de/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"InfobyIP.com",
-                  "type":"url",
-                  "url":"https://www.infobyip.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"ipTRACKERonline",
-                  "type":"url",
-                  "url":"https://www.iptrackeronline.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
-                  "name":"My IP Address",
-                  "type":"url",
-                  "url":"https://www.ipaddress.my/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
+           "name":"כלים",
+           "type":"folder",
+           "children":[
+             {
+               "name":"BlackWidow (T)",
+               "type":"url",
+               "url":"https://softbytelabs.com/wp/blackwidow/",
+               "hover":"קוד פתוח לאיסוף מידע – spidering, scraping ו‑link analysis."
+             },
+             {
+               "name":"Burp Suite (T)",
+               "type":"url",
+               "url":"https://portswigger.net/burp/",
+               "hover":"פלטפורמת pentesting לאבטחת יישומי ווב – interceptor, scanner, repeater ועוד."
+             },
+             {
+               "name":"IntelliTamper (T)",
+               "type":"url",
+               "url":"http://www.softpedia.com/get/Internet/Other-Internet-Related/IntelliTamper.shtml",
+               "hover":"כלי לוויסות ושכתוב בקשות HTTP לצורך בדיקות web app."
+             },
+             {
+               "name":"International Domain Name Conversion Tool",
+               "type":"url",
+               "url":"http://mct.verisign-grs.com/",
+               "hover":"ממיר דומיינים בין Unicode לרישום IDN (Internationalized Domain Names)."
+             },
+             {
+               "name":"Online Nikto scanner",
+               "type":"url",
+               "url":"https://nikto.online/",
+               "hover":"(נוסף גם ב׳חולשות׳) – סורק HTTP/HTTPS לזיהוי פרצות בממשקים ושרתים."
+             }
+           ]
          },
          {
-            "name":"גילוי מארחים ופתחים",
-            "type":"folder",
-            "children":[
-               {
+           "name":"כתובות IP ו-MAC",
+           "type":"folder",
+           "children":[
+             {
+               "name":"מיקום גיאוגרפי",
+               "type":"folder",
+               "children":[
+                 {
+                   "name":"MaxMind Demo",
+                   "type":"url",
+                   "url":"https://www.maxmind.com/en/home",
+                   "hover":"דוגמא ל‑GeoIP lookup – מציג מיקום לפי IP, כולל עיר, ISP ודיוק גאוגרפי."
+                 },
+                 {
+                   "name":"IPv4/IPv6 lists by country code",
+                   "type":"url",
+                   "url":"http://ipverse.net/",
+                   "hover":"מאגר רשימות IP לפי אזורים וקודי מדינות – שימושי לתחקיר geoblocking."
+                 },
+                 {
+                   "name":"IP2Location.com",
+                   "type":"url",
+                   "url":"https://www.ip2location.com/demo",
+                   "hover":"Demo לבדיקת GeoIP עם מידע מדויק למיקום, ISP, סוג חיבור ועוד."
+                 },
+                 {
+                   "name":"IP Fingerprints",
+                   "type":"url",
+                   "url":"http://www.ipfingerprints.com/",
+                   "hover":"כלי GeoIP וסריקת netblocks – כולל traceroute, port scan ו‑WHOIS."
+                 },
+                 {
+                   "name":"DB-IP",
+                   "type":"url",
+                   "url":"https://db-ip.com/",
+                   "hover":"מסד GeoIP לצרכים חינמיים ומסחריים לציון מיקום ומידע טכני על IP."
+                 },
+                 {
+                   "name":"IP Location Finder",
+                   "type":"url",
+                   "url":"https://www.iplocation.net/",
+                   "hover":"מחבר מספר ספקי GeoIP כדי לספק טווחי מיקום ותיאום מדויקים."
+                 },
+                 {
+                   "name":"Info Sniper",
+                   "type":"url",
+                   "url":"http://www.infosniper.net/",
+                   "hover":"אתר GeoIP בסיסי עם תצוגת מיקום מהירה על גבי מפה."
+                 },
+                 {
+                   "name":"utrace",
+                   "type":"url",
+                   "url":"http://en.utrace.de/",
+                   "hover":"כלים ל‑WHOIS, GeoIP, traceroute ו‑reverse DNS בממשק פשוט."
+                 },
+                 {
+                   "name":"InfobyIP.com",
+                   "type":"url",
+                   "url":"https://www.infobyip.com/",
+                   "hover":"כלי שנותן מיקום, DNS, WHOIS, reverseDNS ו‑network lookup."
+                 },
+                 {
+                   "name":"ipTRACKERonline",
+                   "type":"url",
+                   "url":"https://www.iptrackeronline.com/",
+                   "hover":"לוקליזציית IP עם ציוני precisão, ISP ותמונת Hyperlocal."
+                 },
+                 {
+                   "name":"My IP Address",
+                   "type":"url",
+                   "url":"https://www.ipaddress.my/",
+                   "hover":"מציג את כתובת ה‑IP שלך, הארץ, ISP ואפשרויות נוספות לעיון."
+                 }
+               ]
+             },
+             {
+              "name":"גילוי מארחים ופתחים",
+              "type":"folder",
+              "children":[
+                {
                   "name":"urlscan.io",
                   "type":"url",
                   "url":"https://urlscan.io/search/#*",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"סורק אתרים בסביבת sandbox, רושם בקשות, IPים, דומיינים ומשאבים ומספק screenshot ודומיין־verdict לטיפול באתרים חשודים." :contentReference[oaicite:1]{index=1}
+                },
+                {
                   "name":"Spyse",
                   "type":"url",
                   "url":"https://spyse.com/search/ip",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"מנוע OSINT המאפשר לחפש IP, ASN, דומיינים, certs ועוד – עם API לקבלת מידע ופרופיל טכני."
+                },
+                {
                   "name":"Shodan",
                   "type":"url",
                   "url":"https://www.shodan.io/",
-                  "hover":"כלי לחיפוש מידע או שמות."
-               },
-               {
+                  "hover":"׳Google למכשירים׳ – מנוע חיפוש לגלאי שירותים ו‑IoT מחוברים, כולל פורטים פתוחים ובאנרים של שירותים." :contentReference[oaicite:2]{index=2}
+                },
+                {
                   "name":"Portmap",
                   "type":"url",
                   "url":"https://portmap.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"כלי web לחיפוש פורטים פתוחים על IP או host, כולל זיהוי שירות רץ."
+                },
+                {
                   "name":"Scans.io",
                   "type":"url",
                   "url":"https://scans.io/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"מאגר פתוח של נתונים ממסעות סריקה גלובליים – port/IPv4, היסטוריית סריקות ונתונים גולמיים."
+                },
+                {
                   "name":"ZoomEye",
                   "type":"url",
                   "url":"https://www.zoomeye.org/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"מנוע חיפוש סייבר למכשירים, שירותים פתוחים ותשתיות, כולל זיהוי פעילויות חשודות."
+                },
+                {
                   "name":"Nmap (T)",
                   "type":"url",
                   "url":"https://nmap.org/download.html",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"תוכנת קוד‑פתוח עיקרית לסריקת פורטים, זיהוי שירותים ותשתית רשת – CLI ו־GUI."
+                },
+                {
                   "name":"Online Port scanner",
                   "type":"url",
                   "url":"https://portscanner.online/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"סריקה מקוונת פשוטה לפורטים פתוחים ושירותים על IP/host."
+                },
+                {
                   "name":"Internet Census Search",
                   "type":"url",
                   "url":"http://www.exfiltrated.com/querystart.php",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"מאגר תוצאות סריקה רחב היקף – מאפשר חיפוש אחר IPים ופורטים מסריקות ברחבי האינטרנט."
+                },
+                {
                   "name":"Criminal IP Search",
                   "type":"url",
                   "url":"https://www.criminalip.io/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"מערכת Threat Intel ל‑IP – מוניטין, חיבור בין כתובות IP ונתונים על פעילות זדונית."
+                },
+                {
                   "name":"BinaryEdge (R)",
                   "type":"url",
                   "url":"https://www.binaryedge.io/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"מנוע סייבר שמאסף נתונים על שירותים דיגיטליים, IPים פתוחים, SSL ומפעיל API ל‑OSINT."
+                },
+                {
                   "name":"ODIN (R)",
                   "type":"url",
                   "url":"https://www.getodin.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
-         },
-         {
-            "name":"פרוטוקול IPv4",
-            "type":"folder",
-            "children":[
-               {
+                  "hover":"כלי OSINT לאיתור exposed-assets – כולל תשתיות ויכולות ניטור מתקדמות."
+                }
+              ]
+            },
+            {
+              "name":"פרוטוקול IPv4",
+              "type":"folder",
+              "children":[
+                {
                   "name":"ASlookup.com",
                   "type":"url",
                   "url":"https://aslookup.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"כלי לחיפוש ASN, מיפוי ASNs, Whois, BS and IP prefix לפרוטוקול IPv4/6."
+                },
+                {
                   "name":"Port scanner Online",
                   "type":"url",
                   "url":"https://portscanner.online/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"אני ממליץ להשתמש כבר בקטגוריה הקודמת – מבצע סריקת פורטים פשוטה."
+                },
+                {
                   "name":"Onyphe",
                   "type":"url",
                   "url":"https://www.onyphe.io/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"מנוע OSINT ל‑IPv4 עם חיתוך לפי ASN, services, banners ו‑security context."
+                },
+                {
                   "name":"ODIN (R)",
                   "type":"url",
                   "url":"https://www.getodin.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"כמו בגילוי מארחים, כלי ל‑exposed assets עם יכולת IPv4 insight."
+                },
+                {
                   "name":"IPv4 CIDR Report",
                   "type":"url",
                   "url":"http://www.cidr-report.org/as2.0/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"דו״ח כל ASNs ו‑prefixes שלהם ברשת IPv4 – נתוני טרנדים והקצאות."
+                },
+                {
                   "name":"Reverse.report",
                   "type":"url",
                   "url":"https://reverse.report/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"כלי לסריקת reverse whois/reverse dns – כולל מוניטין והודעות CVE לפי IP."
+                },
+                {
                   "name":"Team Cymru IP to ASN",
                   "type":"url",
                   "url":"https://asn.cymru.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"ממיר IP ל‑ASN ומספק מפת AS ופירוט prefix."
+                },
+                {
                   "name":"IP to ASN DB",
                   "type":"url",
                   "url":"https://iptoasn.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"מסד שאילתות IP ל‑ASN בפורמט API, JSON ומתעדכן."
+                },
+                {
                   "name":"Hacker Target - Reverse DNS",
                   "type":"url",
                   "url":"https://hackertarget.com/reverse-dns-lookup/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
-         },
-         {
-            "name":"פרוטוקול IPv6",
-            "type":"folder",
-            "children":[
-               {
+                  "hover":"כלי מקוון לצורך reverse DNS של כתובות IP."
+                }
+              ]
+            },
+            {
+              "name":"פרוטוקול IPv6",
+              "type":"folder",
+              "children":[
+                {
                   "name":"IPv6 CIDR Report",
                   "type":"url",
                   "url":"http://www.cidr-report.org/v6/as2.0/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
-         },
-         {
-            "name":"ניתוב גבולות (BGP)",
-            "type":"folder",
-            "children":[
-               {
+                  "hover":"דו״ח ASNs והקצאות prefix ב‑IPv6, כולל סטטיסטיקה והבנה של הפצת ה‑IPv6."
+                }
+              ]
+            },
+            {
+              "name":"ניתוב גבולות (BGP)",
+              "type":"folder",
+              "children":[
+                {
                   "name":"Hurricane Electric BGP Toolkit",
                   "type":"url",
                   "url":"http://bgp.he.net/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"פלטפורמה מקיפה לצפייה ב-ASNs, prefixes, peers ו‑routing לפרוטוקול BGP."
+                },
+                {
                   "name":"BGP Malicious Content Ranking",
                   "type":"url",
                   "url":"http://bgpranking.circl.lu/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"דירוג ASNs לפי פעילות חשודה למניעת BGP abuse."
+                },
+                {
                   "name":"BGPStream",
                   "type":"url",
                   "url":"https://bgpstream.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"כלי סטרימינג ו‑visual tools ל‑BGP updates, prefix hijacks ולמידה בזמן אמת."
+                },
+                {
                   "name":"PeeringDB",
                   "type":"url",
                   "url":"https://www.peeringdb.com/advanced_search",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"מאגר גלובל לקישוריות בין מפעילים, IXPs ו‑data centers."
+                },
+                {
                   "name":"BGP Tools",
                   "type":"url",
                   "url":"http://www.bgp4.as/tools",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
-         },
-         {
-            "name":"מוניטין",
-            "type":"folder",
-            "children":[
-               {
+                  "hover":"כלי לניטור BGP, traceroutes ו‑prefix coverage בפרוטוקול גבולות."
+                }
+              ]
+            },
+            {
+              "name":"מוניטין",
+              "type":"folder",
+              "children":[
+                {
                   "name":"IP Void",
                   "type":"url",
                   "url":"http://www.ipvoid.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"בודק כתובת IP מול רשימות שחורות, DNS, blacklists ומספק דוח מוניטין."
+                },
+                {
                   "name":"ExoneraTor",
                   "type":"url",
                   "url":"https://exonerator.torproject.org/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"מאגר לבדיקה אם IP היה exit node ברשת Tor בעבר – כלי לבדיקות פרטיות."
+                },
+                {
                   "name":"Grey Noise",
                   "type":"url",
                   "url":"https://viz.greynoise.io/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"מאגר פעילות סריקות אינטרנטיות וכתובות IP עם noise metadata ו‑classification."
+                },
+                {
                   "name":"LiveIPMap IP Check",
                   "type":"url",
                   "url":"https://www.liveipmap.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
-         },
-         {
-            "name":"רשימות שחורות",
-            "type":"folder",
-            "children":[
-               {
+                  "hover":"מציג מיקום ו‑reputation של IP על מפה עם מידע real‑time."
+                }
+              ]
+            },
+            {
+              "name":"רשימות שחורות",
+              "type":"folder",
+              "children":[
+                {
                   "name":"Blocklist.de",
                   "type":"url",
                   "url":"http://www.blocklist.de/en/index.html",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"רשימת IPים מסומנים לפי סוגי התקפות – ניהול קהילתי ומידע על ניסיונות פריצה."
+                },
+                {
                   "name":"DShield API",
                   "type":"url",
                   "url":"https://isc.sans.edu/api/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"API של ISC DShield – לצורכי איסוף מידע על IPים חשודים ותקיפות."
+                },
+                {
                   "name":"FireHOL IP Lists ",
                   "type":"url",
                   "url":"http://iplists.firehol.org/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"אוסף רשימות blacklists כמו malware, spammers, proxies בצורת IP lists."
+                },
+                {
                   "name":"Project Honey Pot",
                   "type":"url",
                   "url":"http://www.projecthoneypot.org/list_of_ips.php",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               },
-               {
+                  "hover":"מאגר IPים שנאספו בעקבות spam ו‑harvesting באתרי honey pot."
+                },
+                {
                   "name":"AbuseIPDB",
                   "type":"url",
                   "url":"https://www.abuseipdb.com/",
-                  "hover":"כלי לחקר נתונים ומידע באינטרנט."
-               }
-            ]
+                  "hover":"מאגר קהילתי שמדרג IPים לפי דיווחים על פעילות זדונית ומספק API."
+                }
+              ]
          },
          {
             "name":"דומיינים דומים",
