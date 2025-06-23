@@ -448,25 +448,25 @@
                "name":"Google's Certificate Transparency",
                "type":"url",
                "url":"https://www.certificate-transparency.org/known-logs",
-               "hover":"מדריך רשמי לרישום ובדיקת יומני CT ציבוריים שמקל על איתור תעודות TLS/SSL שהונפקו באינטרנט." /*Based on certification transparency logs public logs :contentReference[oaicite:1]{index=1}*/
+               "hover":"מדריך רשמי לרישום ובדיקת יומני CT ציבוריים שמקל על איתור תעודות TLS/SSL שהונפקו באינטרנט." 
              },
              {
                "name":"Spyse",
                "type":"url",
                "url":"https://spyse.com/search/certificate",
-               "hover":"מנוע חיפוש סייבר לאיתור נכסים כמו תעודות SSL, דומיינים, IP, עם API מתקדם וחיפושים מהירים." /*Based on Spyse capabilities :contentReference[oaicite:2]{index=2}*/
+               "hover":"מנוע חיפוש סייבר לאיתור נכסים כמו תעודות SSL, דומיינים, IP, עם API מתקדם וחיפושים מהירים." 
              },
              {
                "name":"Censys",
                "type":"url",
                "url":"https://censys.io/",
-               "hover":"פלטפורמה שמסרקת ומנטרת IP, שרתים ותעודות ברחבי האינטרנט ומציגה תובנות אבטחה דרך חיפוש ו‑API." /*Based on Censys description :contentReference[oaicite:3]{index=3}*/
+               "hover":"פלטפורמה שמסרקת ומנטרת IP, שרתים ותעודות ברחבי האינטרנט ומציגה תובנות אבטחה דרך חיפוש ו‑API." 
              },
              {
                "name":"crt.sh - Certificate Search",
                "type":"url",
                "url":"https://crt.sh/?",
-               "hover":"מסד נתונים חינמי ופתוח לחיפוש תעודות TLS/SSL שנרשמו ביומני Certificate Transparency." /*Based on crt.sh purpose :contentReference[oaicite:4]{index=4}*/
+               "hover":"מסד נתונים חינמי ופתוח לחיפוש תעודות TLS/SSL שנרשמו ביומני Certificate Transparency."
              },
              {
                "name":"ODIN (R)",
