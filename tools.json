@@ -1619,169 +1619,169 @@
       ]
    },
    {
-      "name": "תמונות / סרטונים / מסמכים",
-      "type": "folder",
-      "children": [
-         {
+     "name": "תמונות / סרטונים / מסמכים",
+     "type": "folder",
+     "children": [
+          {
             "name": "תמונות",
             "type": "folder",
             "children": [
-               {
-                  "name": "חיפוש",
-                  "type": "folder",
-                  "children": [
-                     {
-                        "name": "Google Images",
-                        "type": "url",
-                        "url": "https://images.google.com/?gws_rd=ssl",
-                        "hover": "כלי לחיפוש מידע או שמות."
-                     },
-                     {
-                        "name": "Bing Images",
-                        "type": "url",
-                        "url": "http://www.bing.com/images",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Yahoo Image Search",
-                        "type": "url",
-                        "url": "http://images.yahoo.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "TinEye Reverse Image Search",
-                        "type": "url",
-                        "url": "http://tineye.com/",
-                        "hover": "כלי לחיפוש מידע או שמות."
-                     },
-                     {
-                        "name": "PimEyes Face Search Engine",
-                        "type": "url",
-                        "url": "https://pimeyes.com/en",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Yandex Images",
-                        "type": "url",
-                        "url": "https://www.yandex.com/images/",
-                        "hover": "כלי לחיפוש מידע או שמות."
-                     },
-                     {
-                        "name": "Baidu Images",
-                        "type": "url",
-                        "url": "http://shitu.baidu.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Twitter Image Search (M)",
-                        "type": "url",
-                        "url": "https://twitter.com/search?q=%3Csearchterm%3E&src=typd&vertical=default&f=images",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Imgur Search",
-                        "type": "url",
-                        "url": "https://imgur.com/search",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Photobucket",
-                        "type": "url",
-                        "url": "http://photobucket.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Karma Decay",
-                        "type": "url",
-                        "url": "http://karmadecay.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Image Raider",
-                        "type": "url",
-                        "url": "https://www.imageraider.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "7Photos.net",
-                        "type": "url",
-                        "url": "http://7photos.net/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Panoramio",
-                        "type": "url",
-                        "url": "http://www.panoramio.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Current Location",
-                        "type": "url",
-                        "url": "http://current-location.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Lakako Photo Search",
-                        "type": "url",
-                        "url": "http://www.lakako.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "CC Search",
-                        "type": "url",
-                        "url": "https://ccsearch.creativecommons.org/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "CamFind App",
-                        "type": "url",
-                        "url": "http://camfindapp.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "RevEye Reverse Image Search (T)",
-                        "type": "url",
-                        "url": "https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf?hl=en",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "SmugMug Search",
-                        "type": "url",
-                        "url": "http://www.smugmug.com/search",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "ImageNet",
-                        "type": "url",
-                        "url": "http://image-net.org/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Places2",
-                        "type": "url",
-                        "url": "http://places2.csail.mit.edu/explore.html",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Image Identification Project",
-                        "type": "url",
-                        "url": "https://www.imageidentify.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "SauceNAO",
-                        "type": "url",
-                        "url": "https://saucenao.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Picarta",
-                        "type": "url",
-                        "url": "https://picarta.ai/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     }
-                  ]
-               },
+              {
+                "name": "חיפוש",
+                "type": "folder",
+                "children": [
+                  {
+                    "name": "Google Images",
+                    "type": "url",
+                    "url": "https://images.google.com/?gws_rd=ssl",
+                    "hover": "חיפוש והעלאת תמונות לזיהוי מקור, דימויים או מידע חזותי."
+                  },
+                  {
+                    "name": "Bing Images",
+                    "type": "url",
+                    "url": "http://www.bing.com/images",
+                    "hover": "חיפוש תמונות עם סינון לפי סוג, גודל ומקור."
+                  },
+                  {
+                    "name": "Yahoo Image Search",
+                    "type": "url",
+                    "url": "http://images.yahoo.com/",
+                    "hover": "חיפוש והצגת תמונות לפי מילות מפתח."
+                  },
+                  {
+                    "name": "TinEye Reverse Image Search",
+                    "type": "url",
+                    "url": "http://tineye.com/",
+                    "hover": "חיפוש הפוך של תמונות למציאת מקור או גרסאות דומות."
+                  },
+                  {
+                    "name": "PimEyes Face Search Engine",
+                    "type": "url",
+                    "url": "https://pimeyes.com/en",
+                    "hover": "חיפוש פרצופים באינטרנט כדי למצוא תמונות של אותו אדם."
+                  },
+                  {
+                    "name": "Yandex Images",
+                    "type": "url",
+                    "url": "https://www.yandex.com/images/",
+                    "hover": "חיפוש תמונות כולל אפשרות חיפוש הפוך מול תמונה."
+                  },
+                  {
+                    "name": "Baidu Images",
+                    "type": "url",
+                    "url": "http://shitu.baidu.com/",
+                    "hover": "חיפוש תמונות סיני עם יכולת זיהוי תמונות הפוך."
+                  },
+                  {
+                    "name": "Twitter Image Search (M)",
+                    "type": "url",
+                    "url": "https://twitter.com/search?q=%3Csearchterm%3E&src=typd&vertical=default&f=images",
+                    "hover": "חיפוש תמונות מתוך ציוצים בטוויטר לפי מילות מפתח."
+                  },
+                  {
+                    "name": "Imgur Search",
+                    "type": "url",
+                    "url": "https://imgur.com/search",
+                    "hover": "חיפוש תמונות ואלבומים פומביים באתר Imgur."
+                  },
+                  {
+                    "name": "Photobucket",
+                    "type": "url",
+                    "url": "http://photobucket.com/",
+                    "hover": "פלטפורמה לאחסון וחיפוש תמונות פרטיות וציבוריות."
+                  },
+                  {
+                    "name": "Karma Decay",
+                    "type": "url",
+                    "url": "http://karmadecay.com/",
+                    "hover": "חיפוש תמונות כפולות באתרי Reddit על ידי העלאה או קישור."
+                  },
+                  {
+                    "name": "Image Raider",
+                    "type": "url",
+                    "url": "https://www.imageraider.com/",
+                    "hover": "חיפוש הפוך של תמונות במספר מנועי חיפוש בו-זמנית."
+                  },
+                  {
+                    "name": "7Photos.net",
+                    "type": "url",
+                    "url": "http://7photos.net/",
+                    "hover": "ארכיון תמונות ישנות הממוקדות אלבומים ציבוריים."
+                  },
+                  {
+                    "name": "Panoramio",
+                    "type": "url",
+                    "url": "http://www.panoramio.com/",
+                    "hover": "שיתוף וחיפוש תמונות מקומות עם קואורדינטות גאוגרפיות."
+                  },
+                  {
+                    "name": "Current Location",
+                    "type": "url",
+                    "url": "http://current-location.com/",
+                    "hover": "שירות שמזהה וזוכר את המיקום הנוכחי שלך ומקשר לתמונות או מידע."
+                  },
+                  {
+                    "name": "Lakako Photo Search",
+                    "type": "url",
+                    "url": "http://www.lakako.com/",
+                    "hover": "חיפוש תמונות לפי קישור או תיאור באתר Lakako."
+                  },
+                  {
+                    "name": "CC Search",
+                    "type": "url",
+                    "url": "https://ccsearch.creativecommons.org/",
+                    "hover": "חיפוש תמונות ברישיון Creative Commons לשימוש חופשי."
+                  },
+                  {
+                    "name": "CamFind App",
+                    "type": "url",
+                    "url": "http://camfindapp.com/",
+                    "hover": "אפליקציית זיהוי תמונות – צלם והאתר יזהה עבורך."
+                  },
+                  {
+                    "name": "RevEye Reverse Image Search (T)",
+                    "type": "url",
+                    "url": "https://chrome.google.com/webstore/detail/reveye-reverse-image-sear/keaaclcjhehbbapnphnmpiklalfhelgf?hl=en",
+                    "hover": "תוסף Chrome שמבצע חיפוש הפוך של תמונות בכמה מנועים."
+                  },
+                  {
+                    "name": "SmugMug Search",
+                    "type": "url",
+                    "url": "http://www.smugmug.com/search",
+                    "hover": "חיפוש תמונות ואלבומים באתר הצילום SmugMug."
+                  },
+                  {
+                    "name": "ImageNet",
+                    "type": "url",
+                    "url": "http://image-net.org/",
+                    "hover": "מאגר גדול של תמונות מתויגות עבור למידת מכונה."
+                  },
+                  {
+                    "name": "Places2",
+                    "type": "url",
+                    "url": "http://places2.csail.mit.edu/explore.html",
+                    "hover": "מאגר תמונות ממקומות שונים בעולם לצורכי מחקר."
+                  },
+                  {
+                    "name": "Image Identification Project",
+                    "type": "url",
+                    "url": "https://www.imageidentify.com/",
+                    "hover": "אתר שמזהה פריטים ותמונות על ידי העלאה וניתוח AI."
+                  },
+                  {
+                    "name": "SauceNAO",
+                    "type": "url",
+                    "url": "https://saucenao.com/",
+                    "hover": "חיפוש הפוך של תמונות לאיתור מקור אמנותי או מצבים."
+                  },
+                  {
+                    "name": "Picarta",
+                    "type": "url",
+                    "url": "https://picarta.ai/",
+                    "hover": "כלי AI לחיפוש וזיהוי תמונות לפי טקסט או תמונה מצורפת."
+                  }
+                ]
+              },
                {
                   "name": "Instagram",
                   "type": "folder",
