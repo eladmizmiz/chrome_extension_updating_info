@@ -1510,25 +1510,25 @@
                   "name": "IP Fingerprints - Reverse IP Lookup",
                   "type": "url",
                   "url": "http://www.ipfingerprints.com/reverseip.php",
-                  "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                  "hover": "מציג דומיינים אחרים המאוחסנים על אותה כתובת IP (Reverse IP Lookup)."
                },
                {
                   "name": "Bing IP Search (D)",
                   "type": "url",
                   "url": "http://www.bing.com/search?q=ip%3A8.8.8.8",
-                  "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                  "hover": "חיפוש ב-Bing להצגת דומיינים על כתובת IP מסוימת (ip:8.8.8.8)."
                },
                {
                   "name": "TCP/IP Utils - Domain Neighbors",
                   "type": "url",
                   "url": "http://www.tcpiputils.com/domain-neighbors",
-                  "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                  "hover": "מאתר דומיינים נוספים המאוחסנים על אותו שרת או כתובת IP."
                },
                {
                   "name": "MyIPNeighbors",
                   "type": "url",
                   "url": "http://www.my-ip-neighbors.com/",
-                  "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                  "hover": "כלי למציאת דומיינים אחרים על אותה כתובת IP באמצעות Reverse DNS."
                }
             ]
          },
@@ -1540,7 +1540,7 @@
                   "name": "CloudFlare Watch",
                   "type": "url",
                   "url": "http://www.crimeflare.com/",
-                  "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                  "hover": "מציג מידע על אתרים המוסתרים מאחורי הגנת Cloudflare וחושף כתובת IP מקורית."
                }
             ]
          },
@@ -1552,13 +1552,13 @@
                   "name": "WiGLE: Wireless Network Mapping",
                   "type": "url",
                   "url": "https://wigle.net/",
-                  "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                  "hover": "מאגר עולמי של רשתות Wi-Fi עם מיקומים גאוגרפיים לצורכי חקירה ומיפוי."
                },
                {
                   "name": "OpenCellid: Database of Cell Towers",
                   "type": "url",
                   "url": "https://opencellid.org/",
-                  "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                  "hover": "מאגר מידע פתוח של אנטנות סלולריות ברחבי העולם, כולל קואורדינטות GPS."
                }
             ]
          },
@@ -1570,25 +1570,25 @@
                   "name": "Wireshark",
                   "type": "url",
                   "url": "https://www.wireshark.org/download.html",
-                  "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                  "hover": "כלי מתקדם ללכידת וניתוח תעבורת רשת בזמן אמת (Packet Sniffer)."
                },
                {
                   "name": "NetworkMiner",
                   "type": "url",
                   "url": "https://www.netresec.com/?page=Networkminer",
-                  "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                  "hover": "כלי לניתוח תעבורת רשת ושחזור נתונים מתוך קבצי pcap."
                },
                {
                   "name": "Packet Total",
                   "type": "url",
                   "url": "http://www.packettotal.com/",
-                  "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                  "hover": "כלי אונליין להעלאת קובצי pcap ולניתוח תעבורת רשת וחשיפת איומים."
                },
                {
                   "name": "NetworkTotal",
                   "type": "url",
                   "url": "https://www.networktotal.com/",
-                  "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                  "hover": "פלטפורמה לניתוח וסקירת קובצי תעבורה ממקורות רשת."
                }
             ]
          },
@@ -1600,19 +1600,19 @@
                   "name": "Ki.tc",
                   "type": "url",
                   "url": "https://ki.tc",
-                  "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                  "hover": "שירות קיצור קישורים שמציג כתובת IP ופרטים של מי שלחץ על הקישור."
                },
                {
                   "name": "Grabify",
                   "type": "url",
                   "url": "https://grabify.link",
-                  "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                  "hover": "כלי לקיצור קישורים ורישום IP, מיקום, דפדפן ופרטים נוספים של המשתמש."
                },
                {
                   "name": "IP Logger",
                   "type": "url",
                   "url": "https://iplogger.com/",
-                  "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                  "hover": "שירות IP Logger לקיצור קישורים ולכידת כתובת IP ומידע נוסף מהמשתמש."
                }
             ]
          }
