@@ -1783,337 +1783,335 @@
                 ]
               },
                {
-                  "name": "Instagram",
-                  "type": "folder",
-                  "children": [
-                     {
-                        "name": "Webstigram",
-                        "type": "url",
-                        "url": "http://websta.me/search",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Instagram",
-                        "type": "url",
-                        "url": "https://www.instagram.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Mini Instagram",
-                        "type": "url",
-                        "url": "http://mininsta.net/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Imgrab",
-                        "type": "url",
-                        "url": "https://imgrab.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Tofo.me",
-                        "type": "url",
-                        "url": "https://tofo.me/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     }
-                  ]
+                 "name": "Instagram",
+                 "type": "folder",
+                 "children": [
+                   {
+                     "name": "Webstigram",
+                     "type": "url",
+                     "url": "http://websta.me/search",
+                     "hover": "כלי להצגת פרופילים, תיוגים ותמונות מ-Instagram בצורה נוחה במחשב."
+                   },
+                   {
+                     "name": "Instagram",
+                     "type": "url",
+                     "url": "https://www.instagram.com/",
+                     "hover": "האתר הרשמי של Instagram - שיתוף תמונות, סטוריז ופרופילים."
+                   },
+                   {
+                     "name": "Mini Instagram",
+                     "type": "url",
+                     "url": "http://mininsta.net/",
+                     "hover": "תצוגת אינסטגרם פשוטה לחיפוש פרופילים, פוסטים ותיוגים."
+                   },
+                   {
+                     "name": "Imgrab",
+                     "type": "url",
+                     "url": "https://imgrab.com/",
+                     "hover": "כלי לצפייה והורדת תמונות וסרטונים מחשבונות Instagram."
+                   },
+                   {
+                     "name": "Tofo.me",
+                     "type": "url",
+                     "url": "https://tofo.me/",
+                     "hover": "חיפוש משתמשים ותוכן מ-Instagram לפי שם משתמש או hashtag."
+                   }
+                 ]
                },
                {
-                  "name": "Flickr",
-                  "type": "folder",
-                  "children": [
-                     {
-                        "name": "Flickr",
-                        "type": "url",
-                        "url": "https://www.flickr.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Flickr Map",
-                        "type": "url",
-                        "url": "https://www.flickr.com/map/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "My Pics Map",
-                        "type": "url",
-                        "url": "http://www.mypicsmap.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "idGettr",
-                        "type": "url",
-                        "url": "http://idgettr.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Flickr Hive Mind",
-                        "type": "url",
-                        "url": "http://flickrhivemind.net/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     }
-                  ]
+                 "name": "Flickr",
+                 "type": "folder",
+                 "children": [
+                   {
+                     "name": "Flickr",
+                     "type": "url",
+                     "url": "https://www.flickr.com/",
+                     "hover": "שירות לשיתוף, אחסון וחיפוש תמונות באיכות גבוהה."
+                   },
+                   {
+                     "name": "Flickr Map",
+                     "type": "url",
+                     "url": "https://www.flickr.com/map/",
+                     "hover": "מפת עולם עם תמונות גאולוקליות שהועלו ל-Flickr."
+                   },
+                   {
+                     "name": "My Pics Map",
+                     "type": "url",
+                     "url": "http://www.mypicsmap.com/",
+                     "hover": "כלי להצגת מיקום התמונות שצילמת על גבי מפה."
+                   },
+                   {
+                     "name": "idGettr",
+                     "type": "url",
+                     "url": "http://idgettr.com/",
+                     "hover": "כלי שמחלץ מזהי משתמשים של Flickr מתוך קישורים."
+                   },
+                   {
+                     "name": "Flickr Hive Mind",
+                     "type": "url",
+                     "url": "http://flickrhivemind.net/",
+                     "hover": "מנוע חיפוש חכם לתמונות ותיוגים בפלטפורמת Flickr."
+                   }
+                 ]
                },
                {
-                  "name": "Metadata",
-                  "type": "folder",
-                  "children": [
-                     {
-                        "name": "ExifTool (T)",
-                        "type": "url",
-                        "url": "http://www.sno.phy.queensu.ca/~phil/exiftool/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Jeffrey's Exif Viewer",
-                        "type": "url",
-                        "url": "http://exif.regex.info/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "ExifViewer",
-                        "type": "url",
-                        "url": "http://www.exifviewer.org/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Search by Exif",
-                        "type": "url",
-                        "url": "http://www.exif-search.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "ImgOps",
-                        "type": "url",
-                        "url": "http://imgops.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Metapicz",
-                        "type": "url",
-                        "url": "http://metapicz.com/#landing",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "JPEGsnoop (T)",
-                        "type": "url",
-                        "url": "http://www.impulseadventure.com/photo/jpeg-snoop.html",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "GeoSetter",
-                        "type": "url",
-                        "url": "http://www.geosetter.de/en/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     }
-                  ]
+                 "name": "Metadata",
+                 "type": "folder",
+                 "children": [
+                   {
+                     "name": "ExifTool (T)",
+                     "type": "url",
+                     "url": "http://www.sno.phy.queensu.ca/~phil/exiftool/",
+                     "hover": "כלי חזק לקריאת metadata (EXIF) מקבצי תמונה מכל סוג."
+                   },
+                   {
+                     "name": "Jeffrey's Exif Viewer",
+                     "type": "url",
+                     "url": "http://exif.regex.info/",
+                     "hover": "צפייה בפרטי EXIF של תמונות ישירות דרך הדפדפן."
+                   },
+                   {
+                     "name": "ExifViewer",
+                     "type": "url",
+                     "url": "http://www.exifviewer.org/",
+                     "hover": "מציג את המידע הפנימי של קובצי תמונה (Exif, IPTC)."
+                   },
+                   {
+                     "name": "Search by Exif",
+                     "type": "url",
+                     "url": "http://www.exif-search.com/",
+                     "hover": "מאפשר חיפוש לפי מטאדאטה של תמונות שצולמו."
+                   },
+                   {
+                     "name": "ImgOps",
+                     "type": "url",
+                     "url": "http://imgops.com/",
+                     "hover": "כלי אונליין שמרכז כלים לניתוח תמונה, כולל EXIF."
+                   },
+                   {
+                     "name": "Metapicz",
+                     "type": "url",
+                     "url": "http://metapicz.com/#landing",
+                     "hover": "כלי קל לשימוש לקריאת metadata מתוך תמונות אונליין."
+                   },
+                   {
+                     "name": "JPEGsnoop (T)",
+                     "type": "url",
+                     "url": "http://www.impulseadventure.com/photo/jpeg-snoop.html",
+                     "hover": "כלי ניתוח מתקדם של קובצי JPEG, כולל איתור עריכה ומניפולציות."
+                   },
+                   {
+                     "name": "GeoSetter",
+                     "type": "url",
+                     "url": "http://www.geosetter.de/en/",
+                     "hover": "תוכנה להצגת נתוני מיקום (GPS) ועריכת מטאדאטה לתמונות."
+                   }
+                 ]
                },
                {
-                  "name": "Forensics",
-                  "type": "folder",
-                  "children": [
-                     {
-                        "name": "FotoForensics",
-                        "type": "url",
-                        "url": "http://fotoforensics.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Camera Trace",
-                        "type": "url",
-                        "url": "http://www.cameratrace.com/trace",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     }
-                  ]
+                 "name": "Forensics",
+                 "type": "folder",
+                 "children": [
+                   {
+                     "name": "FotoForensics",
+                     "type": "url",
+                     "url": "http://fotoforensics.com/",
+                     "hover": "כלי לניתוח אותנטיות של תמונה ולאיתור מניפולציות דיגיטליות."
+                   },
+                   {
+                     "name": "Camera Trace",
+                     "type": "url",
+                     "url": "http://www.cameratrace.com/trace",
+                     "hover": "כלי לזיהוי מקור מצלמה מתוך תמונות ולמציאת קשרים ביניהן."
+                   }
+                 ]
                },
                {
-                  "name": "זיהוי טקסט",
-                  "type": "folder",
-                  "children": [
-                     {
-                        "name": "Online OCR",
-                        "type": "url",
-                        "url": "http://www.free-ocr.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "i2OCR",
-                        "type": "url",
-                        "url": "http://www.i2ocr.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "New OCR",
-                        "type": "url",
-                        "url": "https://www.newocr.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Online OCR",
-                        "type": "url",
-                        "url": "http://www.onlineocr.net/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     }
-                  ]
+                 "name": "זיהוי טקסט",
+                 "type": "folder",
+                 "children": [
+                   {
+                     "name": "Online OCR",
+                     "type": "url",
+                     "url": "http://www.free-ocr.com/",
+                     "hover": "המרת תמונות או קבצי PDF לטקסט באמצעות OCR אונליין"
+                   },
+                   {
+                     "name": "i2OCR",
+                     "type": "url",
+                     "url": "http://www.i2ocr.com/",
+                     "hover": "זיהוי טקסט מתוך קבצים ותמונות במגוון שפות וללא הרשמה"
+                   },
+                   {
+                     "name": "New OCR",
+                     "type": "url",
+                     "url": "https://www.newocr.com/",
+                     "hover": "שירות חינמי לזיהוי טקסט מתוך תמונות וסריקות"
+                   },
+                   {
+                     "name": "Online OCR",
+                     "type": "url",
+                     "url": "http://www.onlineocr.net/",
+                     "hover": "המרת תמונה או PDF לקובץ Word, Excel או טקסט רגיל"
+                   }
+                 ]
                },
                {
-                  "name": "כלים",
-                  "type": "folder",
-                  "children": [
-                     {
-                        "name": "Creepy (T)",
-                        "type": "url",
-                        "url": "http://www.geocreepy.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     }
-                  ]
-               }
-            ]
-         },
-         {
-            "name": "סרטונים",
-            "type": "folder",
-            "children": [
-               {
-                  "name": "חיפוש",
-                  "type": "folder",
-                  "children": [
-                     {
-                        "name": "Google Videos",
-                        "type": "url",
-                        "url": "https://www.google.com/videohp?gws_rd=ssl",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Bing Videos",
-                        "type": "url",
-                        "url": "http://www.bing.com/videos",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Vimeo Search",
-                        "type": "url",
-                        "url": "https://vimeo.com/search?",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Internet Archive Videos",
-                        "type": "url",
-                        "url": "https://archive.org/details/opensource_movies",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Vines (D)",
-                        "type": "url",
-                        "url": "https://www.google.com/search?q=site:vine.co+%3Csearchterm%3E",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Dogpile Web Search",
-                        "type": "url",
-                        "url": "http://www.dogpile.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Geo Search Tool",
-                        "type": "url",
-                        "url": "http://www.geosearchtool.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "blinkx Video Search",
-                        "type": "url",
-                        "url": "http://www.blinkx.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Facebook Live Map",
-                        "type": "url",
-                        "url": "https://www.facebook.com/livemap#",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "LiveLeak",
-                        "type": "url",
-                        "url": "https://www.liveleak.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Metatube",
-                        "type": "url",
-                        "url": "http://www.metatube.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Yahoo Video Search",
-                        "type": "url",
-                        "url": "http://video.search.yahoo.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     }
-                  ]
+                 "name": "כלים",
+                 "type": "folder",
+                 "children": [
+                   {
+                     "name": "Creepy (T)",
+                     "type": "url",
+                     "url": "http://www.geocreepy.com/",
+                     "hover": "כלי לזיהוי מיקום גאוגרפי של משתמשים ברשתות חברתיות"
+                   }
+                 ]
                },
                {
-                  "name": "Analyze / Record",
-                  "type": "folder",
-                  "children": [
-                     {
-                        "name": "DetURL",
-                        "type": "url",
-                        "url": "http://deturl.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Print YouTube StoryBoard Instructions",
-                        "type": "url",
-                        "url": "http://www.labnol.org/internet/print-youtube-video/28217/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Print Storyboard from Youtube",
-                        "type": "url",
-                        "url": "javascript:(function(){a=ytplayer.config.args.storyboard_spec;if(!a){alert(\"Sorry we cannot process this YouTube video. Could you please try another one\");exit();}b=a.split(\"|\");base=b[0].split(\"$\")[0]+\"2/M\";c=b[3].split(\"%23\");sigh=c[c.length-1];var imgs=\"\";t=ytplayer.config.args.length_seconds;n=Math.ceil(c[2]/(c[3]*c[4]));for(i=0;i<n;i++){imgs+=\"<PICTURE='\"+base+i+\".jpg%3Fsigh=\"+sigh+\"'><br/>\";}var title=ytplayer.config.args.title;msg=\"<body style='background-color:#444;color:#eee;margin:20px%20auto;width:90%;text-align:center'%3E%3Ch2%3ETITLE%3C/h2%3E%3Cdiv%3EIMAGES%3C/div%3E%3Cbr/%3E%3Cem%3E%3Ca%20href='http://labnol.org/?p=28217'%20style='text-decoration:none;color:#fff;font-style:bold'%3EPrinted%20using%20the%20YouTube%20bookmarklet.%3C/a%3E%3C/em%3E%3C/body%3E%22;msg=msg.replace(%22TITLE%22,title).replace(%22IMAGES%22,imgs).replace(/PICTURE/g,%22img%20src%22);var%20labnol=window.open();labnol.document.open();labnol.document.write(msg);labnol.document.close();})();",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Frame by Frame for YouTube (T)",
-                        "type": "url",
-                        "url": "https://chrome.google.com/webstore/detail/frame-by-frame-for-youtub/elkadbdicdciddfkdpmaolomehalghio?hl=en-GB",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "YouTube Metadata",
-                        "type": "url",
-                        "url": "http://www.amnestyusa.org/citizenevidence/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "TubeChop",
-                        "type": "url",
-                        "url": "http://www.tubechop.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "YouTube Data Tools",
-                        "type": "url",
-                        "url": "https://tools.digitalmethods.net/netvizz/youtube/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "Hooktube",
-                        "type": "url",
-                        "url": "https://hooktube.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     },
-                     {
-                        "name": "yasiv-youtube",
-                        "type": "url",
-                        "url": "https://yasiv.com/youtube",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                     }
-                  ]
-               }
-            ]
-         },
+                 "name": "סרטונים",
+                 "type": "folder",
+                 "children": [
+                   {
+                     "name": "חיפוש",
+                     "type": "folder",
+                     "children": [
+                       {
+                         "name": "Google Videos",
+                         "type": "url",
+                         "url": "https://www.google.com/videohp?gws_rd=ssl",
+                         "hover": "חיפוש סרטונים מכל מקורות הווידאו דרך גוגל"
+                       },
+                       {
+                         "name": "Bing Videos",
+                         "type": "url",
+                         "url": "http://www.bing.com/videos",
+                         "hover": "חיפוש סרטוני וידאו מתוך מנוע החיפוש של Bing"
+                       },
+                       {
+                         "name": "Vimeo Search",
+                         "type": "url",
+                         "url": "https://vimeo.com/search?",
+                         "hover": "חיפוש סרטונים באיכות גבוהה מתוך פלטפורמת Vimeo"
+                       },
+                       {
+                         "name": "Internet Archive Videos",
+                         "type": "url",
+                         "url": "https://archive.org/details/opensource_movies",
+                         "hover": "מאגר סרטוני ארכיון חינמי להורדה וצפייה"
+                       },
+                       {
+                         "name": "Vines (D)",
+                         "type": "url",
+                         "url": "https://www.google.com/search?q=site:vine.co+%3Csearchterm%3E",
+                         "hover": "חיפוש סרטונים ישנים מ-Vine דרך גוגל"
+                       },
+                       {
+                         "name": "Dogpile Web Search",
+                         "type": "url",
+                         "url": "http://www.dogpile.com/",
+                         "hover": "מנוע חיפוש משולב לסרטונים, תמונות ואתרים"
+                       },
+                       {
+                         "name": "Geo Search Tool",
+                         "type": "url",
+                         "url": "http://www.geosearchtool.com/",
+                         "hover": "חיפוש סרטונים לפי מיקום גאוגרפי"
+                       },
+                       {
+                         "name": "blinkx Video Search",
+                         "type": "url",
+                         "url": "http://www.blinkx.com/",
+                         "hover": "מנוע חיפוש ייעודי לווידאו מכל רחבי הרשת"
+                       },
+                       {
+                         "name": "Facebook Live Map",
+                         "type": "url",
+                         "url": "https://www.facebook.com/livemap#",
+                         "hover": "מפת שידורים חיים בפייסבוק מכל העולם"
+                       },
+                       {
+                         "name": "LiveLeak",
+                         "type": "url",
+                         "url": "https://www.liveleak.com/",
+                         "hover": "אתר לשיתוף סרטוני חדשות ואירועים גולמיים"
+                       },
+                       {
+                         "name": "Metatube",
+                         "type": "url",
+                         "url": "http://www.metatube.com/",
+                         "hover": "אתר מרכז תוכן וידאו חדשותי ובידורי ממקורות שונים"
+                       },
+                       {
+                         "name": "Yahoo Video Search",
+                         "type": "url",
+                         "url": "http://video.search.yahoo.com/",
+                         "hover": "חיפוש וידאו מבוסס Yahoo לפי מילות מפתח"
+                       }
+                     ]
+                   },
+                   {
+                     "name": "Analyze / Record",
+                     "type": "folder",
+                     "children": [
+                       {
+                         "name": "DetURL",
+                         "type": "url",
+                         "url": "http://deturl.com/",
+                         "hover": "הורדת סרטונים ושמע מאתרים כמו YouTube ו-Vimeo"
+                       },
+                       {
+                         "name": "Print YouTube StoryBoard Instructions",
+                         "type": "url",
+                         "url": "http://www.labnol.org/internet/print-youtube-video/28217/",
+                         "hover": "הסבר על הדפסת סטוריבורד של סרטוני YouTube"
+                       },
+                       {
+                         "name": "Print Storyboard from Youtube",
+                         "type": "url",
+                         "url": "javascript:(function(){a=ytplayer.config.args.storyboard_spec;if(!a){alert(\"Sorry we cannot process this YouTube video. Could you please try another one\");exit();}b=a.split(\"|\");base=b[0].split(\"$\")[0]+\"2/M\";c=b[3].split(\"%23\");sigh=c[c.length-1];var imgs=\"\";t=ytplayer.config.args.length_seconds;n=Math.ceil(c[2]/(c[3]*c[4]));for(i=0;i<n;i++){imgs+=\"<PICTURE='\"+base+i+\".jpg%3Fsigh=\"+sigh+\"'><br/>\";}var title=ytplayer.config.args.title;msg=\"<body style='background-color:#444;color:#eee;margin:20px%20auto;width:90%;text-align:center'%3E%3Ch2%3ETITLE%3C/h2%3E%3Cdiv%3EIMAGES%3C/div%3E%3Cbr/%3E%3Cem%3E%3Ca%20href='http://labnol.org/?p=28217'%20style='text-decoration:none;color:#fff;font-style:bold'%3EPrinted%20using%20the%20YouTube%20bookmarklet.%3C/a%3E%3C/em%3E%3C/body%3E%22;msg=msg.replace(%22TITLE%22,title).replace(%22IMAGES%22,imgs).replace(/PICTURE/g,%22img%20src%22);var%20labnol=window.open();labnol.document.open();labnol.document.write(msg);labnol.document.close();})();",
+                         "hover": "סקריפט להפקת תמונות סטוריבורד מתוך סרטון YouTube"
+                       },
+                       {
+                         "name": "Frame by Frame for YouTube (T)",
+                         "type": "url",
+                         "url": "https://chrome.google.com/webstore/detail/frame-by-frame-for-youtub/elkadbdicdciddfkdpmaolomehalghio?hl=en-GB",
+                         "hover": "תוסף לצפייה מדויקת בסרטוני יוטיוב פריים אחר פריים"
+                       },
+                       {
+                         "name": "YouTube Metadata",
+                         "type": "url",
+                         "url": "http://www.amnestyusa.org/citizenevidence/",
+                         "hover": "כלי להצגת מטאדאטה של סרטוני יוטיוב לצורכי תיעוד משפטי"
+                       },
+                       {
+                         "name": "TubeChop",
+                         "type": "url",
+                         "url": "http://www.tubechop.com/",
+                         "hover": "כלי לעריכת קטע קצר מסרטון יוטיוב ולשיתוף קל"
+                       },
+                       {
+                         "name": "YouTube Data Tools",
+                         "type": "url",
+                         "url": "https://tools.digitalmethods.net/netvizz/youtube/",
+                         "hover": "כלי לניתוח נתוני YouTube ופעילות ערוצים"
+                       },
+                       {
+                         "name": "Hooktube",
+                         "type": "url",
+                         "url": "https://hooktube.com/",
+                         "hover": "צפייה ביוטיוב ללא פרסומות עם טעינה מהירה יותר"
+                       },
+                       {
+                         "name": "yasiv-youtube",
+                         "type": "url",
+                         "url": "https://yasiv.com/youtube",
+                         "hover": "כלי להצגת קשרים בין סרטונים וערוצים ביוטיוב באופן גרפי"
+                       }
+                     ]
+                   }
+                 ]
+               },
          {
             "name": "Documents",
             "type": "folder",
