@@ -474,7 +474,7 @@
                 "name": "ODIN (R)",
                 "type": "url",
                 "url": "https://www.getodin.com/",
-                "hover": "עדיין לא זיהיתי מידע ספציפי — אשמח אם תציין במה האתר מתמחה."
+                "hover": "פלטפורמת מודיעין וחקירת איומים לאיסוף מידע, הגנת מותג וניתוח נכסים דיגיטליים."
             }
         ]
     },
@@ -516,7 +516,7 @@
                 "name": "Deteque (R)",
                 "type": "url",
                 "url": "https://www.deteque.com/",
-                "hover": "עדיין לא נמצא תיאור – לא ברור במה הכלי מתמקד."
+                "hover": "שירות להגנת מותגים, מניעת זיופים ופירואטיות דיגיטלית באמצעות ניטור וניתוח נתונים."
             }
         ]
     },
@@ -1342,7 +1342,7 @@
                         "name": "Port scanner Online",
                         "type": "url",
                         "url": "https://portscanner.online/",
-                        "hover": "אני ממליץ להשתמש כבר בקטגוריה הקודמת – מבצע סריקת פורטים פשוטה."
+                        "hover": "סורק פורטים מקוון וחינמי לבדיקת פורטים פתוחים בכתובת IP או דומיין."
                     },
                     {
                         "name": "Onyphe",
@@ -1354,7 +1354,7 @@
                         "name": "ODIN (R)",
                         "type": "url",
                         "url": "https://www.getodin.com/",
-                        "hover": "כמו בגילוי מארחים, כלי ל‑exposed assets עם יכולת IPv4 insight."
+                        "hover": "פלטפורמת מודיעין וחקירת איומים עם יכולות ניתוח מתקדמות לתשתיות IPv4."
                     },
                     {
                         "name": "IPv4 CIDR Report",
@@ -2122,37 +2122,37 @@
                         "name": "Scribd",
                         "type": "url",
                         "url": "https://www.scribd.com/",
-                        "hover": "הכניסו שם של קובץ מסויים וקבלו את כל המסמכים שנקראו בשם זה ופורסמו בטעות או בכוונה ברשת האינטרנט"
+                        "hover": "ספרייה דיגיטלית עצומה המאפשרת חיפוש וגישה לספרים, מסמכים, מאמרים ופרסומים."
                     },
                     {
                         "name": "DocJax",
                         "type": "url",
                         "url": "http://www.docjax.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                        "hover": "מנוע חיפוש למסמכים מקוונים, כולל קבצי PDF, Word ו-PowerPoint."
                     },
                     {
                         "name": "WikiLeaks Search",
                         "type": "url",
                         "url": "https://search.wikileaks.org/advanced",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                        "hover": "מנוע החיפוש של WikiLeaks, המאפשר חיפוש מתקדם בתוך מאגרי המסמכים וההדלפות שפורסמו."
                     },
                     {
                         "name": "RECAP Court Doc Repo",
                         "type": "url",
                         "url": "http://archive.recapthelaw.org/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                        "hover": "ארכיון של מסמכים ממערכת בתי המשפט הפדרליים של ארה\"ב (PACER), הנגיש לציבור בחינם."
                     },
                     {
                         "name": "filessoo.com",
                         "type": "url",
                         "url": "http://filessoo.com/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                        "hover": "מנוע חיפוש למגוון סוגי קבצים ברחבי האינטרנט."
                     },
                     {
                         "name": "Leaked Cables",
                         "type": "url",
                         "url": "https://search.wikileaks.org/plusd/",
-                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                        "hover": "מאגר המברקים הדיפלומטיים של ארה\"ב (Cablegate) שפורסם על ידי WikiLeaks, עם אפשרויות חיפוש ועיון."
                     }
                 ]
             },
@@ -2172,67 +2172,67 @@
                                         "name": "Find my Facebook ID",
                                         "type": "url",
                                         "url": "http://findmyfbid.com/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "כלי פשוט למציאת מזהה הפייסבוק (Facebook ID) של פרופיל אישי, דף או קבוצה."
                                     },
                                     {
                                         "name": "FB Email Search",
                                         "type": "url",
                                         "url": "https://www.facebook.com/public?query=email@gmail.com&nomc=0",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "קישור ישיר לחיפוש בפייסבוק באמצעות כתובת דוא\"ל."
                                     },
                                     {
                                         "name": "Recover FB Account",
                                         "type": "url",
                                         "url": "https://www.facebook.com/login/identify?ctx=recover",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "קישור לדף שחזור חשבון הפייסבוק, שיכול לשמש לאימות קיום חשבון לפי מייל או טלפון."
                                     },
                                     {
                                         "name": "Facebook Photos by ID (M)",
                                         "type": "url",
                                         "url": "https://www.facebook.com/photo.php?fbid=PHOTO-ID-HERE",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "תבנית קישור לצפייה ישירה בתמונה בפייסבוק באמצעות מזהה התמונה (Photo ID)."
                                     },
                                     {
                                         "name": "FB People Directory",
                                         "type": "url",
                                         "url": "https://www.facebook.com/directory/people/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "אינדקס המשתמשים הציבורי של פייסבוק, מאפשר דפדוף בפרופילים לפי שם."
                                     },
                                     {
                                         "name": "NetBootCamp FB Search Tool",
                                         "type": "url",
                                         "url": "http://netbootcamp.org/facebook.html",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "כלי המייצר קישורי חיפוש גרף מתקדמים בפייסבוק לפי פרמטרים שונים."
                                     },
                                     {
                                         "name": "FB Lookup ID",
                                         "type": "url",
                                         "url": "https://lookup-id.com/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "כלי למציאת מזהה הפייסבוק (ID) של פרופיל, דף או קבוצה מתוך כתובת ה-URL שלהם."
                                     },
                                     {
                                         "name": "FB Identify (Requires Logout)",
                                         "type": "url",
                                         "url": "https://www.facebook.com/login/identify",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "דף זיהוי החשבון של פייסבוק, שימושי לאימות קיום חשבון באמצעות מייל או מספר טלפון."
                                     },
                                     {
                                         "name": "Search is Back!",
                                         "type": "url",
                                         "url": "https://searchisback.com/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "כלי (לא פעיל) שאיפשר לבצע חיפושי גרף מתקדמים ומורכבים בפייסבוק."
                                     },
                                     {
                                         "name": "Socialsearching",
                                         "type": "url",
                                         "url": "http://socialsearching.info/#/fb",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "מנוע חיפוש ייעודי לאיתור מידע ופרופילים ברשתות חברתיות, כולל פייסבוק."
                                     },
                                     {
                                         "name": "Facebook Live Map",
                                         "type": "url",
                                         "url": "https://www.facebook.com/livemap#",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "מפה אינטראקטיבית המציגה שידורים חיים (Facebook Live) מרחבי העולם בזמן אמת."
                                     }
                                 ]
                             },
@@ -2244,7 +2244,7 @@
                                         "name": "Facebook Scanner",
                                         "type": "url",
                                         "url": "http://stalkscan.com/en/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "כלי המאפשר לצפות במידע ציבורי של פרופיל פייסבוק מסוים, גם אם אינכם חברים."
                                     }
                                 ]
                             }
@@ -2258,7 +2258,7 @@
                                 "name": "Inflact Instagram Viewer (Anonymous)",
                                 "type": "url",
                                 "url": "https://inflact.com/profiles/instagram-viewer/",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                "hover": "כלי לצפייה אנונימית בפרופילים, סטוריז, פוסטים והורדת תוכן מאינסטגרם."
                             }
                         ]
                     },
@@ -2274,109 +2274,109 @@
                                         "name": "Twitter Advanced Search",
                                         "type": "url",
                                         "url": "https://twitter.com/search-advanced",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "ממשק החיפוש המתקדם הרשמי של טוויטר, המאפשר סינון ציוצים לפי תאריך, משתמש, מיקום ועוד."
                                     },
                                     {
                                         "name": "Twitter Location Search",
                                         "type": "url",
                                         "url": "https://twitter.com/search?q=geocode%3A36.1143855%2C-115.1727518%2C1km&src=typd",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "תבנית חיפוש ציוצים בטוויטר לפי קואורדינטות גאוגרפיות ורדיוס מוגדר."
                                     },
                                     {
                                         "name": "Twitter Date Search",
                                         "type": "url",
                                         "url": "https://twitter.com/search?q=SearchTerm%20since:2016-03-01%20until:2016-03-02",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "תבנית חיפוש ציוצים בטוויטר בטווח תאריכים ספציפי (מאז... ועד...)."
                                     },
                                     {
                                         "name": "Twitter Name Search",
                                         "type": "url",
                                         "url": "https://twitter.com/#!/who_to_follow",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "קישור לאזור 'למי לעקוב' בטוויטר, המציע חשבונות רלוונטיים."
                                     },
                                     {
                                         "name": "Twitter User Directory",
                                         "type": "url",
                                         "url": "https://twitter.com/i/directory/profiles/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "אינדקס המשתמשים של טוויטר המאפשר דפדוף בפרופילים לפי אלפבית."
                                     },
                                     {
                                         "name": "Twitter Search for Live Streaming Video",
                                         "type": "url",
                                         "url": "https://twitter.com/search?q=%23periscope%20OR%20%23meerkat",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "חיפוש בטוויטר לציוצים המכילים קישורים לשידורים חיים מפלטפורמות כמו Periscope."
                                     },
                                     {
                                         "name": "ConWeets",
                                         "type": "url",
                                         "url": "http://www.conweets.com/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "כלי (לא פעיל) שאפשר לצפות בשיחות שלמות (ציוצים ותשובות) בין שני משתמשי טוויטר."
                                     },
                                     {
                                         "name": "Twitterfall",
                                         "type": "url",
                                         "url": "https://twitterfall.com/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "מציג זרם חי של ציוצים בנושא מסוים בממשק דמוי 'מפל מים'."
                                     },
                                     {
                                         "name": "Twellow",
                                         "type": "url",
                                         "url": "https://www.twellow.com/splash/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "'דפי זהב' לטוויטר, המאפשר חיפוש וסיווג משתמשים לפי תחומי עניין ומקצוע."
                                     },
                                     {
                                         "name": "TweetReach",
                                         "type": "url",
                                         "url": "https://tweetreach.com/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "כלי לניתוח התפוצה וההשפעה של ציוצים, האשטאגים וחשבונות בטוויטר."
                                     },
                                     {
                                         "name": "BackTweets",
                                         "type": "url",
                                         "url": "http://backtweets.com/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "שירות (לא פעיל) שאפשר למצוא ציוצים המקשרים לכתובת URL ספציפית."
                                     },
                                     {
                                         "name": "Moz Profile Search",
                                         "type": "url",
                                         "url": "https://moz.com/followerwonk/bio/?q=zero%20day&l=us",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "חיפוש בפרופילי טוויטר באמצעות Followerwonk של Moz, לפי מילות מפתח בביו."
                                     },
                                     {
                                         "name": "HootSuite",
                                         "type": "url",
                                         "url": "https://hootsuite.com/feed/SearchTerm?pfilter=",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "קישור לחיפוש בתוך פלטפורמת ניהול המדיה החברתית Hootsuite."
                                     },
                                     {
                                         "name": "TweetDeck",
                                         "type": "url",
                                         "url": "https://tweetdeck.twitter.com/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "ממשק הניהול הרשמי של טוויטר המאפשר מעקב וניהול של מספר חשבונות וחיפושים בעמודות."
                                     },
                                     {
                                         "name": "Twopcharts",
                                         "type": "url",
                                         "url": "http://twopcharts.com/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "אתר (לא פעיל) שסיפק סטטיסטיקות ודירוגים על משתמשי טוויטר וציוצים פופולריים."
                                     },
                                     {
                                         "name": "Twitter Email Test",
                                         "type": "url",
                                         "url": "https://pdevesian.eu/tet",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "כלי לבדיקה האם כתובת דוא\"ל מסוימת משויכת לחשבון טוויטר קיים."
                                     },
                                     {
                                         "name": "TweeterID",
                                         "type": "url",
                                         "url": "https://tweeterid.com/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "כלי פשוט להמרת שם משתמש בטוויטר (username) למזהה המספרי הייחודי שלו (User ID)."
                                     },
                                     {
                                         "name": "Twoogel Search Engine",
                                         "type": "url",
                                         "url": "http://twoogel.com/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "מנוע חיפוש (לא פעיל) ששילב תוצאות מטוויטר ומגוגל."
                                     }
                                 ]
                             },
@@ -2388,7 +2388,7 @@
                                         "name": "Twicsy",
                                         "type": "url",
                                         "url": "http://twicsy.com/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "מנוע חיפוש (לא פעיל) שהתמקד באיתור וצפייה בתמונות ששותפו בטוויטר."
                                     }
                                 ]
                             },
@@ -2404,61 +2404,61 @@
                                                 "name": "Tweepsect",
                                                 "type": "url",
                                                 "url": "http://tweepsect.com/",
-                                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                                "hover": "כלי (לא פעיל) שאיתר את העוקבים המשותפים בין מספר חשבונות טוויטר."
                                             },
                                             {
                                                 "name": "Followerwonk Analyze",
                                                 "type": "url",
                                                 "url": "https://moz.com/followerwonk/analyze",
-                                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                                "hover": "ניתוח פרופיל טוויטר באמצעות Followerwonk, המציג נתונים על עוקבים, פעילות וסמכות."
                                             },
                                             {
                                                 "name": "Followerwonk Compare",
                                                 "type": "url",
                                                 "url": "https://moz.com/followerwonk/compare",
-                                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                                "hover": "השוואה בין מספר חשבונות טוויטר באמצעות Followerwonk כדי למצוא עוקבים משותפים והבדלים."
                                             },
                                             {
                                                 "name": "Twitonomy",
                                                 "type": "url",
                                                 "url": "http://www.twitonomy.com/",
-                                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                                "hover": "פלטפורמה לניתוח אנליטי מפורט של חשבונות טוויטר, כולל סטטיסטיקות, אזכורים ודפוסי פעילות."
                                             },
                                             {
                                                 "name": "Klear",
                                                 "type": "url",
                                                 "url": "http://klear.com/",
-                                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                                "hover": "פלטפורמה לשיווק משפיענים המאפשרת לאתר ולנתח פרופילים ברשתות החברתיות, כולל טוויטר."
                                             },
                                             {
                                                 "name": "Foller.me Analytics",
                                                 "type": "url",
                                                 "url": "https://foller.me/",
-                                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                                "hover": "כלי המספק ניתוח מהיר של פרופיל טוויטר, כולל מידע על תאריך יצירה, עוקבים, ונושאים נפוצים."
                                             },
                                             {
                                                 "name": "MentionMapp",
                                                 "type": "url",
                                                 "url": "http://mentionmapp.com/",
-                                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                                "hover": "כלי המייצר מפה ויזואלית של קשרים ואזכורים בין משתמשי טוויטר והאשטאגים."
                                             },
                                             {
                                                 "name": "SleepingTime",
                                                 "type": "url",
                                                 "url": "http://sleepingtime.org/",
-                                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                                "hover": "מנתח את דפוסי הפעילות של משתמש טוויטר כדי להעריך את 'שעות השינה' שלו."
                                             },
                                             {
                                                 "name": "Bioischanged (M)",
                                                 "type": "url",
                                                 "url": "http://bioischanged.com/%3Ctwitterusername%3E",
-                                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                                "hover": "שירות (לא פעיל) שעקב אחר שינויים בביוגרפיה (Bio) של חשבונות טוויטר."
                                             },
                                             {
                                                 "name": "Social Bearing",
                                                 "type": "url",
                                                 "url": "https://socialbearing.com/",
-                                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                                "hover": "כלי לחיפוש וניתוח ציוצים, חשבונות ומיקומים בטוויטר, עם דשבורד ויזואלי."
                                             }
                                         ]
                                     },
@@ -2470,25 +2470,25 @@
                                                 "name": "Tagboard",
                                                 "type": "url",
                                                 "url": "https://tagboard.com/",
-                                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                                "hover": "מרכז תוכן ממספר רשתות חברתיות סביב האשטאג מסוים ומציג אותו בלוח ויזואלי."
                                             },
                                             {
                                                 "name": "RiteTag",
                                                 "type": "url",
                                                 "url": "https://ritetag.com/",
-                                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                                "hover": "כלי המציע המלצות להאשטאגים רלוונטיים ופופולריים לפוסטים, על סמך ניתוח טקסט ותמונה."
                                             },
                                             {
                                                 "name": "Trendsmap",
                                                 "type": "url",
                                                 "url": "http://trendsmap.com/",
-                                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                                "hover": "מפה אינטראקטיבית המציגה את הנושאים וההאשטאגים החמים (Trends) בטוויטר לפי מיקום גאוגרפי."
                                             },
                                             {
                                                 "name": "TAGSExplorer",
                                                 "type": "url",
                                                 "url": "https://tags.hawksey.info/tagsexplorer/",
-                                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                                "hover": "כלי לניתוח ויזואלי של שיחות וקשרים סביב האשטאג בטוויטר."
                                             }
                                         ]
                                     },
@@ -2496,19 +2496,19 @@
                                         "name": "Tweet Metadata",
                                         "type": "url",
                                         "url": "http://online.wsj.com/public/resources/documents/TweetMetadata.pdf",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "מסמך PDF המסביר את שדות המטא-דאטה השונים הקיימים באובייקט של ציוץ."
                                     },
                                     {
                                         "name": "Tinfoleak Web",
                                         "type": "url",
                                         "url": "http://tinfoleak.com/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "כלי איסוף מודיעין (OSINT) מבוסס-רשת (לא פעיל) שהתמקד בחשיפת מידע מחשבונות טוויטר."
                                     },
                                     {
                                         "name": "Tinfoleak.py (T)",
                                         "type": "url",
                                         "url": "http://www.vicenteaguileradiaz.com/tools/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "סקריפט פייתון לאיסוף מודיעין (OSINT) מחשבונות טוויטר, כולל ניתוח מכשירים, מיקום וזמני פעילות."
                                     }
                                 ]
                             },
@@ -2520,7 +2520,7 @@
                                         "name": "One Million Tweet Map",
                                         "type": "url",
                                         "url": "http://onemilliontweetmap.com/",
-                                        "hover": "ציוצים לפי מיקום במפה"
+                                        "hover": "מפה אינטראקטיבית המציגה בזמן אמת ציוצים בעלי תיוג גאוגרפי מרחבי העולם."
                                     }
                                 ]
                             }
@@ -2546,7 +2546,7 @@
                                 "name": "Google Social Search",
                                 "type": "url",
                                 "url": "http://www.social-searcher.com/google-social-search/",
-                                "hover": "הכניסו שם של יוזר וקבלו את כל הדפים המכילים את שמו ברשתות החברתיות"
+                                "hover": "מנוע חיפוש המרכז תוצאות מרשתות חברתיות שונות עבור מילת מפתח, שם משתמש או האשטאג."
                             },
                             {
                                 "name": "Google CSE for Telegram links",
