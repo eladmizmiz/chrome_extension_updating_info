@@ -2517,139 +2517,14 @@
                                 "type": "folder",
                                 "children": [
                                     {
-                                        "name": "GeoSocial Footprint",
-                                        "type": "url",
-                                        "url": "http://geosocialfootprint.com/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                                    },
-                                    {
-                                        "name": "TweetPaths",
-                                        "type": "url",
-                                        "url": "http://www.tweetpaths.com/maps",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                                    },
-                                    {
-                                        "name": "TeachingPrivacy",
-                                        "type": "url",
-                                        "url": "http://app.teachingprivacy.com/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                                    },
-                                    {
-                                        "name": "Echosec",
-                                        "type": "url",
-                                        "url": "https://app.echosec.net/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                                    },
-                                    {
-                                        "name": "MIT Map",
-                                        "type": "url",
-                                        "url": "http://mapd.csail.mit.edu/tweetmap/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                                    },
-                                    {
-                                        "name": "Harvard Map",
-                                        "type": "url",
-                                        "url": "http://worldmap.harvard.edu/tweetmap/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                                    },
-                                    {
                                         "name": "One Million Tweet Map",
                                         "type": "url",
                                         "url": "http://onemilliontweetmap.com/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                                    },
-                                    {
-                                        "name": "Creepy",
-                                        "type": "url",
-                                        "url": "http://www.geocreepy.com/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                                    },
-                                    {
-                                        "name": "Tweepsmap",
-                                        "type": "url",
-                                        "url": "http://tweepsmap.com/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                                    },
-                                    {
-                                        "name": "GeoTweet",
-                                        "type": "url",
-                                        "url": "http://geotweet.altervista.org/#",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                                    },
-                                    {
-                                        "name": "MapD Tweetmap",
-                                        "type": "url",
-                                        "url": "https://www.mapd.com/demos/tweetmap/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "Archive / Deleted Tweets",
-                                "type": "folder",
-                                "children": [
-                                    {
-                                        "name": "All My Tweets",
-                                        "type": "url",
-                                        "url": "https://www.allmytweets.net/connect/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                                    },
-                                    {
-                                        "name": "Deadbird",
-                                        "type": "url",
-                                        "url": "https://deadbird.site/",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                                    },
-                                    {
-                                        "name": "Spoonbill",
-                                        "type": "url",
-                                        "url": "https://spoonbill.io",
-                                        "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                        "hover": "ציוצים לפי מיקום במפה"
                                     }
                                 ]
                             }
                         ]
-                    },
-                    {
-                        "name": "Reddit",
-                        "type": "folder",
-                        "children": [
-                            {
-                                "name": "Reddit Metis",
-                                "type": "url",
-                                "url": "https://redditmetis.com/#",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
-                                "name": "Reddit Archive",
-                                "type": "url",
-                                "url": "http://www.redditarchive.com/",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
-                                "name": "reddit metrics",
-                                "type": "url",
-                                "url": "http://redditmetrics.com/",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
-                                "name": "subreddits",
-                                "type": "url",
-                                "url": "http://subreddits.org/",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
-                                "name": "Reddit Comment History",
-                                "type": "url",
-                                "url": "https://roadtolarissa.com/javascript/reddit-comment-visualizer/",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            }
-                        ]
-                    },
-                    {
-                        "name": "LinkedIn",
-                        "type": "folder",
-                        "children": []
                     },
                     {
                         "name": "Tiktok",
@@ -2659,43 +2534,7 @@
                                 "name": "TikTok Viewer",
                                 "type": "url",
                                 "url": "https://urlebird.com//",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Other Social Networks",
-                        "type": "folder",
-                        "children": [
-                            {
-                                "name": "Myspace",
-                                "type": "url",
-                                "url": "https://myspace.com/",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
-                                "name": "Tumblr",
-                                "type": "url",
-                                "url": "http://www.tumblr.com/tagged/search",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
-                                "name": "TheHoodUp (NSFW)",
-                                "type": "url",
-                                "url": "http://thehoodup.com/board/",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
-                                "name": "BlackPlanet.com - Member Find",
-                                "type": "url",
-                                "url": "http://www.blackplanet.com/user_search/index.html",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
-                                "name": "MiGente (Latino)",
-                                "type": "url",
-                                "url": "http://www.migente.com/user_search/index.html",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                "hover": "לצפיה בטיקטוק בצורה אנונימית לחלוטין"
                             }
                         ]
                     },
