@@ -2696,30 +2696,6 @@
                                 "type": "url",
                                 "url": "http://www.migente.com/user_search/index.html",
                                 "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
-                                "name": "Asian Avenue",
-                                "type": "url",
-                                "url": "http://www.asianave.com/user_search/index.html",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
-                                "name": "Orkut (Brazil)",
-                                "type": "url",
-                                "url": "https://orkut.google.com/",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
-                                "name": "Odnoklassniki",
-                                "type": "url",
-                                "url": "http://ok.ru/",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
-                                "name": "Delicious",
-                                "type": "url",
-                                "url": "https://del.icio.us/",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
                             }
                         ]
                     },
@@ -2728,64 +2704,16 @@
                         "type": "folder",
                         "children": [
                             {
-                                "name": "Social Searcher",
-                                "type": "url",
-                                "url": "http://www.social-searcher.com/",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
                                 "name": "Google Social Search",
                                 "type": "url",
                                 "url": "http://www.social-searcher.com/google-social-search/",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
-                                "name": "Periscope Search",
-                                "type": "url",
-                                "url": "http://www.perisearch.net/",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
-                                "name": "Periscope with known Username (M)",
-                                "type": "url",
-                                "url": "https://www.periscope.tv/%3Cusername%3E",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
-                                "name": "SocialBlade.com",
-                                "type": "url",
-                                "url": "http://socialblade.com/",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
-                                "name": "Talkwalker Social Media Search (R)",
-                                "type": "url",
-                                "url": "https://www.talkwalker.com/social-media-analytics-search",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
-                                "name": "BuzzSumo Most Shared",
-                                "type": "url",
-                                "url": "https://app.buzzsumo.com/research/most-shared",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
-                                "name": "PinGroupie",
-                                "type": "url",
-                                "url": "http://pingroupie.com/",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
-                            },
-                            {
-                                "name": "Searchlr",
-                                "type": "url",
-                                "url": "http://searchlr.net/",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                "hover": "הכניסו שם של יוזר וקבלו את כל הדפים המכילים את שמו ברשתות החברתיות"
                             },
                             {
                                 "name": "Google CSE for Telegram links",
                                 "type": "url",
                                 "url": "https://cse.google.com/cse?cx=006368593537057042503:efxu7xprihg",
-                                "hover": "כלי לחקר נתונים ומידע באינטרנט."
+                                "hover": "Telegago הוא Google Custom Search Engine המותאם לחיפוש בתוכן ציבורי של טלגרם לצורכי מחקר OSINT. "
                             }
                         ]
                     }
