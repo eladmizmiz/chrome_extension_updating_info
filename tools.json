@@ -1051,12 +1051,6 @@
                 "type": "url",
                 "url": "https://www.google.com/trends/",
                 "hover": "ניתוח למגמות חיפוש של מילים וביטויים בזמן אמת לפי אזור וזמן."
-            },
-            {
-                "name": "Reddit (M)",
-                "type": "url",
-                "url": "https://www.reddit.com/domain/%3CURLhere%3E",
-                "hover": "מראה פעילות Reddit על דומיין מסוים כולל פוסטים ותגובות."
             }
         ]
     },
