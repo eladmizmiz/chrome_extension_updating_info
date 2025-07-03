@@ -301,12 +301,6 @@
                 "type": "folder",
                 "children": [
                     {
-                        "name": "Reacher Demo",
-                        "type": "url",
-                        "url": "https://reacher.email",
-                        "hover": "כלי לאימות מיילים בקוד פתוח"
-                    },
-                    {
                         "name": "MailScrap",
                         "type": "url",
                         "url": "https://mailscrap.com/",
